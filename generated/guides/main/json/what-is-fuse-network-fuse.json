@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about the Fuse Network",
-  "created": "2023-08-02T07:58:43.833Z",
+  "created": "2023-08-02T11:55:22.276Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse",
   "name": "What is Fuse Network? ",
@@ -16,56 +16,8 @@
     {
       "content": "The underlying blockchain is a Layer 1 Ethereum Virtual Machine (EVM)-compatible, making it easy to port or migrate existing applications created for the Ethereum network or other EVM-compatible networks. The Fuse blockchain maintains a sub-5-second average block generation time with transactions costing as little as $0.001. The Native Token is FUSE.",
       "name": "The Fuse Blockchain",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "6c14944f-f958-4b51-a8f2-11bd42a861fe"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "588b4b82-e604-4c9f-9ca6-46514e1e85d9",
-          "explanation": "Explanation of the question"
-        }
-      ],
+      "stepItems": [],
       "uuid": "68743762-e2b2-43ac-b713-207460ceaba8"
-    },
-    {
-      "content": "Fuse SDK and APIs are a set of tools designed to let companies plug Web3 services and crypto payments into their existing client applications. The product is designed to provide an easy way for companies looking to upgrade their apps and save on development costs.",
-      "name": "The Fuse SDK & APIs",
-      "stepItems": [],
-      "uuid": "332f05df-171a-4345-ab54-47a27445ad23"
-    },
-    {
-      "content": "The Mobile First teach stack enables companies to build mobile-first applications for both iOS and Android platforms. With this stack, SMBs can easily create their next app with web3 capabilities powered by the Fuse network or upgrade their existing apps by integrating the Fuse Flutter SDK.",
-      "name": "A Mobile First Stack",
-      "stepItems": [],
-      "uuid": "8d9b3926-3651-4b48-bbb7-6eab2a9331c6"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
