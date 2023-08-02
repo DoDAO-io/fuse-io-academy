@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about the Fuse Network",
-  "created": "2023-08-02T07:57:11.545Z",
+  "created": "2023-08-02T07:58:43.833Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse",
   "name": "What is Fuse Network? ",
@@ -10,14 +10,7 @@
     {
       "content": "Fuse.io (or simply Fuse) was launched in 2019 with the aim to offer businesses and developers a comprehensive suite of infrastructure tools to enable Web3 payments on their applications, making it easy to unlock and extend their functionalities.\n\n ",
       "name": "Introduction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "8add3228-56e5-4ae9-aaa0-594ac87dda17"
-        }
-      ],
+      "stepItems": [],
       "uuid": "c1534bcd-744c-4f3e-95a3-615152ce3deb"
     },
     {
@@ -76,6 +69,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "bcacb123-1f40-481c-b5d2-b23db73766e4",
+  "uuid": "what-is-fuse-network-fuse",
   "version": 1
 }
