@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about the Fuse Network",
-  "created": "2023-08-02T12:16:40.777Z",
+  "created": "2023-08-02T12:17:10.466Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse",
   "name": "What is Fuse Network? ",
@@ -44,7 +44,7 @@
       "uuid": "2eeb03fb-735a-4ba2-9d3f-a19fbdd28553"
     },
     {
-      "content": "Since its establishment in 2019, Fuse has been gaining traction. The number of businesses joining Fuse and using its services is constantly growing, averaging over 80,000 tx daily, with over 1.3 million unique accounts and 180,000 customers onboarded; all while maintaining a 99.9% uptime.\n‍\nFuse aims to become the main B2B blockchain, tailor-made for payments, as evidenced in our growing ecosystem of projects, such as food delivery apps, consumer loyalty, charity programs, local currencies, local or branded stablecoins, etc.\n‍\nOne example of a business showcasing the power of the Fuse tech stack is Bitazza (South East Asia). Bitazza created a blockchain-enabled web3 mobile wallet running on the Fuse Network, built using Fuse’s API.\n‍\nFreedom Wallet allows businesses to utilize tokens and NFTs, social recovery in case of lost passwords, and the availability of escrow services. Bitazza’s token holders also qualify for credit card rebates through staking and can spend their tokens at an increasing number of retailers across South East Asia. The Freedom Wallet has over 1M installs to date.",
+      "content": "Since its establishment in 2019, Fuse has been gaining traction. The number of businesses joining Fuse and using its services is constantly growing, averaging over 80,000 tx daily, with over 1.3 million unique accounts and 180,000 customers onboarded; all while maintaining a 99.9% uptime.\n\nFuse aims to become the main B2B blockchain, tailor-made for payments, as evidenced in our growing ecosystem of projects, such as food delivery apps, consumer loyalty, charity programs, local currencies, local or branded stablecoins, etc.\n\nOne example of a business showcasing the power of the Fuse tech stack is Bitazza (South East Asia). Bitazza created a blockchain-enabled web3 mobile wallet running on the Fuse Network, built using Fuse’s API.\n\nFreedom Wallet allows businesses to utilize tokens and NFTs, social recovery in case of lost passwords, and the availability of escrow services. Bitazza’s token holders also qualify for credit card rebates through staking and can spend their tokens at an increasing number of retailers across South East Asia. The Freedom Wallet has over 1M installs to date.",
       "name": "Who is using Fuse?",
       "stepItems": [],
       "uuid": "d07bbd9c-ee0e-4294-9057-b7760d986b18"
