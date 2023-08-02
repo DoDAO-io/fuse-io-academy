@@ -1,6 +1,6 @@
 categories: []
 content: Learn all about the Fuse Network
-created: '2023-08-02T12:15:19.432Z'
+created: '2023-08-02T12:16:40.777Z'
 guideType: onboarding
 key: what-is-fuse-network-fuse
 name: 'What is Fuse Network? '
@@ -85,25 +85,28 @@ steps:
       time.
 
 
-      **Fuse Smart Wallet Provides Several Significant Benefits, Including
-
-      **
-
-      **Enhanced security:** Fuse Smart Wallets are non-custodial accounts that
-      allow users to deposit funds that no one else can control and withdraw at
-      any time. Each Fuse Smart Wallet is a smart contract associated with the
-      user's EOA and can only be controlled by that user.
+      Fuse Smart Wallet Provides Several Significant Benefits, Including
 
 
-      **Enhanced UX:** Fuse Smart Wallets support gasless transactions,
-      improving the user experience and making it more seamless to interact with
-      the blockchain.
+      Enhanced security:
+
+      Fuse Smart Wallets are non-custodial accounts that allow users to deposit
+      funds that no one else can control and withdraw at any time. Each Fuse
+      Smart Wallet is a smart contract associated with the user's EOA and can
+      only be controlled by that user.
 
 
-      **Better developer experience: **The Fuse Wallet SDK abstracts away the
-      complexities of web3 development, such as cryptography, wallet management,
-      and smart contract interactions, making it easier for developers to build
-      blockchain-based applications.
+      Enhanced UX: 
+
+      Fuse Smart Wallets support gasless transactions, improving the user
+      experience and making it more seamless to interact with the blockchain.
+
+
+      Better developer experience: 
+
+      The Fuse Wallet SDK abstracts away the complexities of web3 development,
+      such as cryptography, wallet management, and smart contract interactions,
+      making it easier for developers to build blockchain-based applications.
     name: Fuse Wallet SDK
     stepItems: []
     uuid: 2eeb03fb-735a-4ba2-9d3f-a19fbdd28553

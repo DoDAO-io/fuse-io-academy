@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about the Fuse Network",
-  "created": "2023-08-02T12:15:19.432Z",
+  "created": "2023-08-02T12:16:40.777Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse",
   "name": "What is Fuse Network? ",
@@ -38,7 +38,7 @@
       "uuid": "9accd075-7e45-460f-9b44-ecdaaefd9c11"
     },
     {
-      "content": "Fuse wallet is an iOS and Android non-custodial Web3 wallet — it can be used in any EVM-compatible blockchain.\n\nThe Fuse Wallet SDK is a pre-built set of functions and utilities for creating, managing, and engaging with Fuse Smart Wallets in client applications in a secure and efficient manner. \n\nFuse Smart Wallets are smart contract wallets associated with each user's Externally Owned Account (EOA) that provide added security compared to traditional EOAs with a single private key. With Fuse Smart Wallets, users can deposit funds that no one else can control and withdraw them at any time.\n\n**Fuse Smart Wallet Provides Several Significant Benefits, Including\n**\n**Enhanced security:** Fuse Smart Wallets are non-custodial accounts that allow users to deposit funds that no one else can control and withdraw at any time. Each Fuse Smart Wallet is a smart contract associated with the user's EOA and can only be controlled by that user.\n\n**Enhanced UX:** Fuse Smart Wallets support gasless transactions, improving the user experience and making it more seamless to interact with the blockchain.\n\n**Better developer experience: **The Fuse Wallet SDK abstracts away the complexities of web3 development, such as cryptography, wallet management, and smart contract interactions, making it easier for developers to build blockchain-based applications.",
+      "content": "Fuse wallet is an iOS and Android non-custodial Web3 wallet — it can be used in any EVM-compatible blockchain.\n\nThe Fuse Wallet SDK is a pre-built set of functions and utilities for creating, managing, and engaging with Fuse Smart Wallets in client applications in a secure and efficient manner. \n\nFuse Smart Wallets are smart contract wallets associated with each user's Externally Owned Account (EOA) that provide added security compared to traditional EOAs with a single private key. With Fuse Smart Wallets, users can deposit funds that no one else can control and withdraw them at any time.\n\nFuse Smart Wallet Provides Several Significant Benefits, Including\n\nEnhanced security:\nFuse Smart Wallets are non-custodial accounts that allow users to deposit funds that no one else can control and withdraw at any time. Each Fuse Smart Wallet is a smart contract associated with the user's EOA and can only be controlled by that user.\n\nEnhanced UX: \nFuse Smart Wallets support gasless transactions, improving the user experience and making it more seamless to interact with the blockchain.\n\nBetter developer experience: \nThe Fuse Wallet SDK abstracts away the complexities of web3 development, such as cryptography, wallet management, and smart contract interactions, making it easier for developers to build blockchain-based applications.",
       "name": "Fuse Wallet SDK",
       "stepItems": [],
       "uuid": "2eeb03fb-735a-4ba2-9d3f-a19fbdd28553"
