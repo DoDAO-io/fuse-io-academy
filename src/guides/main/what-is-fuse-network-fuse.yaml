@@ -1,6 +1,6 @@
 categories: []
 content: Learn all about the Fuse Network
-created: '2023-08-02T12:14:24.110Z'
+created: '2023-08-02T12:15:19.432Z'
 guideType: onboarding
 key: what-is-fuse-network-fuse
 name: 'What is Fuse Network? '
@@ -72,7 +72,6 @@ steps:
       Fuse wallet is an iOS and Android non-custodial Web3 wallet — it can be
       used in any EVM-compatible blockchain.
 
-      ‍
 
       The Fuse Wallet SDK is a pre-built set of functions and utilities for
       creating, managing, and engaging with Fuse Smart Wallets in client
@@ -85,26 +84,23 @@ steps:
       can deposit funds that no one else can control and withdraw them at any
       time.
 
-      ‍
 
-      Fuse Smart Wallet Provides Several Significant Benefits, Including
+      **Fuse Smart Wallet Provides Several Significant Benefits, Including
 
-      ‍
+      **
 
-      Enhanced security: Fuse Smart Wallets are non-custodial accounts that
+      **Enhanced security:** Fuse Smart Wallets are non-custodial accounts that
       allow users to deposit funds that no one else can control and withdraw at
       any time. Each Fuse Smart Wallet is a smart contract associated with the
       user's EOA and can only be controlled by that user.
 
-      ‍
 
-      Enhanced UX: Fuse Smart Wallets support gasless transactions, improving
-      the user experience and making it more seamless to interact with the
-      blockchain.
+      **Enhanced UX:** Fuse Smart Wallets support gasless transactions,
+      improving the user experience and making it more seamless to interact with
+      the blockchain.
 
-      ‍
 
-      Better developer experience: The Fuse Wallet SDK abstracts away the
+      **Better developer experience: **The Fuse Wallet SDK abstracts away the
       complexities of web3 development, such as cryptography, wallet management,
       and smart contract interactions, making it easier for developers to build
       blockchain-based applications.
