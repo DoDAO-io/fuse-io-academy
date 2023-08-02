@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "What are Web3 Payments?",
-  "created": "2023-08-02T12:04:51.365Z",
+  "created": "2023-08-02T12:05:43.391Z",
   "guideType": "onboarding",
   "key": "web3-payments-fuse",
   "name": "Web3 Payments ",
@@ -127,48 +127,6 @@
         }
       ],
       "uuid": "17a23636-7c35-4caa-bba9-912f09dbb6bc"
-    },
-    {
-      "content": "",
-      "name": "Introduction Evaluation",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "2d4e2eab-1451-4f96-9af1-a9064ed6cb2b"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "3bd52c14-83b8-4bea-8b08-339de7a5ae15",
-          "explanation": "Explanation of the question"
-        }
-      ],
-      "uuid": "6cfabadd-ce13-41fc-b936-2373b52cf90b"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
