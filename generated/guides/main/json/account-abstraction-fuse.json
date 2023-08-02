@@ -1,0 +1,62 @@
+{
+  "categories": [],
+  "content": "Learn all about Account Abstraction",
+  "created": "2023-08-02T13:04:30.728Z",
+  "guideType": "onboarding",
+  "key": "account-abstraction-fuse",
+  "name": "Account Abstraction",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "In the ever-evolving landscape of cryptocurrencies, one concept has garnered significant attention and acclaim: Account Abstraction. This groundbreaking development has the potential to propel cryptocurrencies from niche status to mainstream adoption by enhancing the programmability of user accounts. \n\nBy unifying Contract Accounts and Externally Owned Accounts (EOAs), while eliminating redundant logic, account abstraction represents a significant leap forward for the entire crypto industry.\n\nMore importantly, it means the nascent blockchain industry is approaching a crucial moment regarding useability for everyone. At the same time, it’s a pivotal moment for Fuse as the world catches up with our original value proposition of taking Web3 payments mainstream and changing how people interact with money. \n\nThis guide lets you learn about our journey of pioneering this technology since 2019 and our imminent plans regarding implementing account abstraction. In this guide, we want to outline what account abstraction is, how it works, and, most importantly, delve into its benefits to developers in the Fuse and broader EVM ecosystem.",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "e886eff5-9059-49d6-a798-5e5ab25ff548"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "909be379-5fa1-4574-9fd4-ddeb0887f5f8"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "e38d2c25-45c3-4330-a7c6-c5a320c89706",
+          "explanation": "Explanation of the question"
+        }
+      ],
+      "uuid": "43eec773-c618-48d9-9cc6-d03c345ded39"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "36b90b85-6026-43ed-b193-51ef6f29af1b",
+  "version": 1
+}
