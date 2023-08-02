@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about Account Abstraction",
-  "created": "2023-08-02T13:05:49.355Z",
+  "created": "2023-08-02T13:06:52.379Z",
   "guideType": "onboarding",
   "key": "account-abstraction-fuse",
   "name": "Account Abstraction",
@@ -127,6 +127,12 @@
         }
       ],
       "uuid": "43eec773-c618-48d9-9cc6-d03c345ded39"
+    },
+    {
+      "content": "AA (Account Abstraction) is a technology that abstracts the concept of accounts in EVM-compatible networks by unifying it into a single idea at the higher layer of the protocol to overcome the functional constraints imposed by the type of account.\n\nTo understand AA’s motivation, we need first to know the characteristics of “accounts” in the Ethereum Protocol. In simple terms: AA merges these two account types, enabling a more flexible and efficient approach.\n",
+      "name": "What is Account Abstraction?",
+      "stepItems": [],
+      "uuid": "42360c08-f675-45c0-9cee-d1dcd504e43e"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
