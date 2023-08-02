@@ -1,6 +1,6 @@
 categories: []
 content: Learn all about Account Abstraction
-created: '2023-08-02T13:04:30.728Z'
+created: '2023-08-02T13:05:49.355Z'
 guideType: onboarding
 key: account-abstraction-fuse
 name: Account Abstraction
@@ -37,29 +37,95 @@ steps:
   - content: ''
     name: Introduction Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 909be379-5fa1-4574-9fd4-ddeb0887f5f8
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - B
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: e38d2c25-45c3-4330-a7c6-c5a320c89706
-        explanation: Explanation of the question
+          - content: The process of creating a new cryptocurrency
+            key: A
+          - content: >-
+              The unification of Contract Accounts and Externally Owned Accounts
+              (EOAs) in cryptocurrencies
+            key: B
+          - content: The process of converting cryptocurrency into fiat currency
+            key: C
+          - content: >-
+              The process of transferring cryptocurrency between different
+              wallets
+            key: D
+        content: What is account abstraction?
+        type: SingleChoice
+        uuid: 4c42a41f-cd72-4aa0-a8de-c943d3d5a297
+        explanation: >-
+          Account abstraction is the unification of Contract Accounts and
+          Externally Owned Accounts (EOAs) in cryptocurrencies, eliminating
+          redundant logic and enhancing the programmability of user accounts.
+      - answerKeys:
+          - C
+        choices:
+          - content: Decreasing the value of cryptocurrencies over time
+            key: A
+          - content: Increasing the complexity of cryptocurrencies
+            key: B
+          - content: >-
+              Propelling cryptocurrencies from niche status to mainstream
+              adoption
+            key: C
+          - content: Making cryptocurrencies more difficult to use for everyone
+            key: D
+        content: >-
+          What is the potential impact of account abstraction on
+          cryptocurrencies?
+        type: SingleChoice
+        uuid: 43e8b269-f806-4a92-8553-d48d4c6cdc7f
+        explanation: >-
+          Account abstraction has the potential to propel cryptocurrencies from
+          niche status to mainstream adoption by enhancing the programmability
+          of user accounts.
+      - answerKeys:
+          - A
+        choices:
+          - content: A significant leap forward for the entire crypto industry
+            key: A
+          - content: A setback for the blockchain industry
+            key: B
+          - content: No impact on the blockchain industry
+            key: C
+          - content: A temporary trend in the blockchain industry
+            key: D
+        content: What does account abstraction mean for the blockchain industry?
+        type: SingleChoice
+        uuid: a90871e5-802d-4627-9de6-1971bdf68d99
+        explanation: >-
+          Account abstraction represents a significant leap forward for the
+          entire crypto industry by unifying Contract Accounts and Externally
+          Owned Accounts (EOAs) and eliminating redundant logic.
+      - answerKeys:
+          - D
+        choices:
+          - content: To promote a new cryptocurrency
+            key: A
+          - content: >-
+              To explain the process of converting cryptocurrency into fiat
+              currency
+            key: B
+          - content: >-
+              To discuss the process of transferring cryptocurrency between
+              different wallets
+            key: C
+          - content: >-
+              To outline what account abstraction is, how it works, and delve
+              into its benefits to developers in the Fuse and broader EVM
+              ecosystem
+            key: D
+        content: What is the purpose of this guide?
+        type: SingleChoice
+        uuid: 9efe92cb-c694-4938-a883-b039acbf82ba
+        explanation: >-
+          The purpose of this guide is to outline what account abstraction is,
+          how it works, and delve into its benefits to developers in the Fuse
+          and broader EVM ecosystem.
     uuid: 43eec773-c618-48d9-9cc6-d03c345ded39
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 36b90b85-6026-43ed-b193-51ef6f29af1b
+uuid: account-abstraction-fuse
 version: 1
