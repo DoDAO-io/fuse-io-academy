@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "What are Web3 Payments?",
-  "created": "2023-08-02T12:02:45.423Z",
+  "created": "2023-08-02T12:04:51.365Z",
   "guideType": "onboarding",
   "key": "web3-payments-fuse",
   "name": "Web3 Payments ",
@@ -12,8 +12,8 @@
       "name": "Introduction",
       "stepItems": [
         {
-          "label": "Full Name",
-          "required": false,
+          "label": "EVM Wallet Address",
+          "required": true,
           "type": "PublicShortInput",
           "uuid": "b4226994-2678-4780-9a3b-f3f40ec80c8b"
         },
@@ -172,6 +172,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "725c1db0-267f-4dfa-8712-6a4ffa0fe223",
+  "uuid": "web3-payments-fuse",
   "version": 1
 }
