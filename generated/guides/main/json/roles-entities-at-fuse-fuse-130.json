@@ -1,0 +1,135 @@
+{
+  "categories": [],
+  "content": "Merchants, Operators, and Power Validators",
+  "created": "2023-08-03T06:13:08.019Z",
+  "guideType": "onboarding",
+  "key": "roles-entities-at-fuse-fuse-130",
+  "name": "Roles & Entities at Fuse",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "Fuse Network is a payment-focused blockchain ecosystem that aims to become more robust and decentralized. To achieve this, the Fuse ecosystem has outlined three core entities: Merchants, Operators, and Power Validators. As a Layer-1 blockchain, Fuse does not depend on any other blockchain for finalizing transactions, making it a reliable and independent network.\n\nMerchants play a crucial role in the Fuse ecosystem. They can easily integrate decentralized payment services provided by Operators into their existing applications. This allows them to quickly start accepting payments and conducting business on the Fuse Network. Merchants can also utilize out-of-the-box services such as accounting, invoicing, point of sale, and eCommerce plugins, making it convenient for them to manage their operations.\n\nOperators are the backbone of the decentralized middleware layer on the Fuse Network. They can be real-world businesses, applications, games, or anything that can run on the Fuse blockchain. Operators are responsible for onboarding users to applications on Fuse and ensuring compliance with local regulations. They build products and services that utilize the Fuse Network for their clients, providing critical services to make applications run smoothly.\n\nPower Validators are essential for achieving decentralization on the Fuse Network. They power the payment infrastructure of the platform and actively validate transactions. Their role is crucial in ensuring the desired level of decentralization that makes sense for businesses. Power Validators also run sequencer nodes that commit transactions in batches to the Fuse Network, contributing to its scalability and fault tolerance.\n\nFuse Network offers a full-stack solution, unlike many other networks that rely on Ethereum infrastructure. It provides businesses with everything they need to access the Fuse Network, making it a compelling option for developers looking to build decentralized applications and smart contracts. Being a Layer-1 blockchain, Fuse has the flexibility to focus on its desired vertical and not follow the path set by Ethereum development.\n\nIn the coming year, Fuse aims to onboard more Operators, enhance privacy, and further decentralize its ecosystem. By implementing Skandha Bundler, Fuse becomes an Account Abstraction compatible EVM chain, adding more functionality and compatibility to its network. Fuse was designed to be user-friendly for both blockchain and non-blockchain developers, making it accessible to a wide range of users and businesses.",
+      "name": "Fuse Network Roles & Entities ",
+      "stepItems": [],
+      "uuid": "b11a2a05-a3e8-4e08-adec-1b7181e6e433"
+    },
+    {
+      "content": "",
+      "name": "Test Your Knowledge",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Something that is owned by a person or company and increases in value over time",
+              "key": "A"
+            },
+            {
+              "content": "Something that you buy from a shop",
+              "key": "B"
+            },
+            {
+              "content": "Something that decreases in value over time",
+              "key": "C"
+            },
+            {
+              "content": "Something that you buy for fun",
+              "key": "D"
+            }
+          ],
+          "content": "What is an asset?",
+          "type": "SingleChoice",
+          "uuid": "044dcfcf-c74c-43d8-882f-c2c81a3da64f",
+          "explanation": "Property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Merchants, Operators, and Power Validators",
+              "key": "C"
+            },
+            {
+              "content": "Developers, Users, and Validators",
+              "key": "A"
+            },
+            {
+              "content": "Buyers, Sellers, and Investors",
+              "key": "B"
+            },
+            {
+              "content": "Customers, Suppliers, and Distributors",
+              "key": "D"
+            }
+          ],
+          "content": "What are the three core entities in the Fuse Network?",
+          "type": "SingleChoice",
+          "uuid": "502b0948-6c3b-4576-8bdc-94d48060b4f1",
+          "explanation": "The three core entities in the Fuse Network are Merchants, Operators, and Power Validators."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Integrate decentralized payment services and utilize out-of-the-box services",
+              "key": "A"
+            },
+            {
+              "content": "Validate transactions and ensure compliance with local regulations",
+              "key": "B"
+            },
+            {
+              "content": "Power the payment infrastructure and actively validate transactions",
+              "key": "C"
+            },
+            {
+              "content": "Build products and services that utilize the Fuse Network",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of Merchants in the Fuse ecosystem?",
+          "type": "SingleChoice",
+          "uuid": "79e8234a-0d1e-44a3-8662-1c0cc5905d3f",
+          "explanation": "Merchants can easily integrate decentralized payment services provided by Operators into their existing applications and utilize out-of-the-box services such as accounting, invoicing, point of sale, and eCommerce plugins."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Integrate decentralized payment services and utilize out-of-the-box services",
+              "key": "A"
+            },
+            {
+              "content": "Validate transactions and ensure compliance with local regulations",
+              "key": "B"
+            },
+            {
+              "content": "Power the payment infrastructure and actively validate transactions",
+              "key": "C"
+            },
+            {
+              "content": "Build products and services that utilize the Fuse Network",
+              "key": "D"
+            }
+          ],
+          "content": "What do Power Validators do in the Fuse Network?",
+          "type": "SingleChoice",
+          "uuid": "6f2ea5cc-fa65-4978-b05c-1e1a4d492ebf",
+          "explanation": "Power Validators power the payment infrastructure of the platform, actively validate transactions, and run sequencer nodes that commit transactions in batches to the Fuse Network."
+        }
+      ],
+      "uuid": "7688d60b-b89c-4a39-bf47-bde1ee03a6fa"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "50c3ddfb-9af1-4744-ba3e-ac9785284edb",
+  "version": 1
+}
