@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about AA",
-  "created": "2023-08-03T05:58:32.895Z",
+  "created": "2023-08-03T05:58:44.910Z",
   "guideType": "onboarding",
   "key": "what-is-account-abstraction-fuse-615",
   "name": "What is Account Abstraction",
@@ -10,14 +10,7 @@
     {
       "content": "Account abstraction is a concept in blockchain technology that simplifies the user experience and opens up new possibilities for decentralized applications. It allows developers to create smart contracts that can be paid for by someone other than the contract's user. This means that users do not need to have any cryptocurrency in their account to use the contract. Account abstraction combines features of externally owned accounts (EOA) and smart contract accounts, creating a single contract account capable of transacting with tokens and creating contracts simultaneously.\n\nOne of the main benefits of account abstraction is that it simplifies the onboarding process for new users. They can now access crypto and blockchain applications without needing to learn new behaviors or even have any crypto in their wallet. This is especially important in emerging markets where there is a high demand for financial services and a need for efficient and cost-effective digital payment solutions. Account abstraction can help increase the adoption of blockchain technology by making it easier for people to use smart contracts.\n\nAnother advantage of account abstraction is that it enables wallets to perform automatic gas management, transaction batching, and contract interactions while maintaining user control over funds. This means that users have more flexibility and control over their transactions, enhancing their privacy and security. By abstracting the account, wallets can perform complex tasks without requiring users to have a deep understanding of the underlying technology.\n\nAccount abstraction is already native to the Ethereum blockchain and is also obtainable on EVM-compatible blockchains such as Fuse. Fuse has been implementing account abstraction since 2019, allowing developers to create specialized transaction types tailored to specific needs. However, there are limitations to the current implementation, such as the lack of a standard or ERC, making it challenging to use open-source software and follow best practices. To address these limitations, Fuse plans to introduce a new model for account abstraction based on the Ethereum ERC-4337 standard in 2023.\n\nOverall, account abstraction is a significant development in blockchain technology. It simplifies the user experience, enhances transaction flexibility, and improves privacy and security. It has the potential to bring decentralized applications to a mainstream audience and drive the adoption of smart contracts. By allowing users to pay for smart contracts without needing cryptocurrency in their accounts, account abstraction makes it easier for people to access and use blockchain technology.",
       "name": "What is Account Abstraction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "46b6ff7e-3892-4ccd-898b-f1667beea802"
-        }
-      ],
+      "stepItems": [],
       "uuid": "e4786b72-6e59-4b53-8cc7-06f2d6845a2e"
     },
     {
@@ -137,6 +130,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "616385cc-1501-4ef3-ba9a-37e050b8483f",
+  "uuid": "what-is-account-abstraction-fuse-615",
   "version": 1
 }
