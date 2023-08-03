@@ -1,0 +1,137 @@
+{
+  "uniqueId": "67e09eeb-ca9d-4add-991c-21f8aaca53c3",
+  "id": "add-fuse-network-fuse",
+  "name": "Add Fuse Network",
+  "content": "How to Add Fuse Network to MetaMask",
+  "created": "2023-08-03T06:46:25.642Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "4190799f-ca77-4851-a257-9b544cea0e37",
+      "content": "MetaMask is a popular blockchain wallet that supports Fuse tokens and NFTs. To interact with Fuse dApps, you need to add the Fuse Network RPC to your MetaMask account.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 1",
+      "uuid": "ee45d7e2-8a92-4d86-81d0-44ef430a9806",
+      "content": "To add Fuse Network to MetaMask, you first need to install MetaMask and create an account. If you already have MetaMask, you can skip this step.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 2",
+      "uuid": "8fdb89b3-6e74-48b0-aa86-a6bf77a88a91",
+      "content": "After installing MetaMask, launch the wallet extension and click on the extension in the top right of your browser window. Set a password and store your secret recovery phrases.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 3",
+      "uuid": "bfa4802a-62c7-4167-b9be-608cb32ac901",
+      "content": "To add the Fuse Network, click on 'Add Network' in MetaMask and enter the following details: Network Name: Fuse Mainnet, Network URL: https://rpc.fuse.io, Chain ID: 122, Currency Symbol: FUSE, Block Explorer URL: https://fuse.io/",
+      "stepItems": []
+    },
+    {
+      "name": "Step 4",
+      "uuid": "46802ff6-926d-409d-b257-1cb49d8233eb",
+      "content": "If you're using the MetaMask mobile application, you can find it in the app store. After installation, open the app and tap on the three parallel lines on the top left side. Enter the same network details as in Step 3.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 5",
+      "uuid": "aa0f5d64-24ee-47eb-adac-37278f1603b3",
+      "content": "Once you have connected MetaMask to Fuse, you can send and receive FUSE tokens and explore the Fuse ecosystem of dApps. To switch back to Ethereum Mainnet, click the network dropdown and select Ethereum Mainnet.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 6",
+      "uuid": "48514ed7-da69-4002-bbe0-3f856652be62",
+      "content": "Adding Fuse Network to MetaMask allows you to access various dApps on the Fuse ecosystem, which offers lower gas fees compared to Ethereum. You can also explore projects like Voltage Finance and Artrific, the native NFT marketplace.",
+      "stepItems": []
+    },
+    {
+      "name": "Step 7",
+      "uuid": "9b49823d-eee6-4d6e-91e5-5d09bba9aefb",
+      "content": "If you prefer a quick and safe method to add Fuse Network to MetaMask, you can use Chainlist. It provides a list of EVM networks and allows you to connect your wallet with just a few clicks.",
+      "stepItems": []
+    },
+    {
+      "name": "Conclusion",
+      "uuid": "b9c069dc-4380-44f9-b000-45dad1079881",
+      "content": "By adding Fuse Network to MetaMask, you can enjoy the benefits of the Fuse ecosystem and easily interact with Fuse dApps and tokens.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "94dacb38-4aea-45f7-b449-a9a34f298ca8",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "3ec96b0f-da68-4285-a16f-49bb0c5e0985",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Install MetaMask and create an account"
+            },
+            {
+              "key": "B",
+              "content": "Open the MetaMask app and tap on the three parallel lines"
+            },
+            {
+              "key": "C",
+              "content": "Click on 'Add Network' in MetaMask"
+            },
+            {
+              "key": "D",
+              "content": "Set a password and store your secret recovery phrases"
+            }
+          ],
+          "content": "What do you need to do before adding Fuse Network to MetaMask?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Before adding Fuse Network to MetaMask, you need to install MetaMask and create an account."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "7f44cc67-fd2e-4173-aa06-40908c39f0bf",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "e2c6438c-7f26-42b9-a222-a465784bd072",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To install MetaMask and create an account"
+            },
+            {
+              "key": "B",
+              "content": "To open the MetaMask app and tap on the three parallel lines"
+            },
+            {
+              "key": "C",
+              "content": "To access dApps on the Fuse ecosystem and enjoy lower gas fees"
+            },
+            {
+              "key": "D",
+              "content": "To click on 'Add Network' in MetaMask"
+            }
+          ],
+          "content": "What is the purpose of adding Fuse Network to MetaMask?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "Adding Fuse Network to MetaMask allows you to access various dApps on the Fuse ecosystem and enjoy lower gas fees compared to Ethereum."
+        }
+      ]
+    }
+  ],
+  "spaceId": "fuse"
+}
