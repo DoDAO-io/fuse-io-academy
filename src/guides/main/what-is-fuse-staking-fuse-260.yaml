@@ -1,6 +1,6 @@
 categories: []
-content: New Guide
-created: '2023-08-03T06:15:52.886Z'
+content: Put FUSE to Work with Staking
+created: '2023-08-03T06:16:28.872Z'
 guideType: onboarding
 key: what-is-fuse-staking-fuse-260
 name: What is FUSE Staking
@@ -55,11 +55,7 @@ steps:
       Fuse Network. By staking their tokens, holders can earn rewards while also
       contributing to the growth and development of the network.
     name: What is FUSE Staking
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: dad506d7-4b5a-4fa4-804a-23e093f1af71
+    stepItems: []
     uuid: a947769c-ff28-4529-b286-cea9cf44cdc6
   - content: ''
     name: Test Your Knowledge
@@ -154,5 +150,5 @@ steps:
     uuid: b02e13fe-dec0-4e09-9d55-956b1ef63214
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: be28fe16-d071-43a3-8f10-1c4b2f9df726
+uuid: what-is-fuse-staking-fuse-260
 version: 1
