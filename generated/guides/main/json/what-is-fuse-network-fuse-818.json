@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about our tech stack ",
-  "created": "2023-08-03T06:21:24.064Z",
+  "created": "2023-08-03T14:34:07.852Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse-818",
   "name": "What is Fuse Network?",
@@ -124,6 +124,18 @@
           "type": "SingleChoice",
           "uuid": "5c66ad5d-4949-4c18-bf60-6713e017f006",
           "explanation": "The utility token of the Fuse Network is called Fuse Token (FUSE), which is an ERC-20 token."
+        },
+        {
+          "label": "Email: ",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "fb81864f-adc7-477e-884f-0592b0748802"
+        },
+        {
+          "label": "EVM Compatible Wallet Address",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "5c718dd9-1a2f-48ea-8eb9-78e21e3955c1"
         }
       ],
       "uuid": "7cc6f7d8-1203-458d-bae7-d025e14001ac"
