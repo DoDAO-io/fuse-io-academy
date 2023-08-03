@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Fuse has made significant progress in 2023",
-  "created": "2023-08-03T06:25:46.440Z",
+  "created": "2023-08-03T14:52:52.778Z",
   "guideType": "onboarding",
   "key": "fuse-in-2023-beyond-fuse-740",
   "name": "Fuse in 2023 & Beyond",
@@ -124,6 +124,18 @@
           "type": "SingleChoice",
           "uuid": "5b7dd583-d4ba-40bf-a6a2-43cad5f5e1c7",
           "explanation": "Fuse launched the Fuse Ignite Program, a $10M fund dedicated to empowering real-world and DeFi builders to advance the adoption of Web3 payments."
+        },
+        {
+          "label": "Email",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "21e3da31-a5d0-481e-bbe6-73e4546fc2c9"
+        },
+        {
+          "label": "EVM Compatible Wallet Address",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "0790977a-5a4b-436d-aefe-f8f8fec93789"
         }
       ],
       "uuid": "d8d485a8-9e6d-49b4-9338-5eb3f279e77d"
