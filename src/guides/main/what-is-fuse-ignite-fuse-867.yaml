@@ -1,6 +1,6 @@
 categories: []
 content: Developer Funding & Grants
-created: '2023-08-03T06:34:05.736Z'
+created: '2023-08-03T14:55:53.082Z'
 guideType: onboarding
 key: what-is-fuse-ignite-fuse-867
 name: What is Fuse Ignite?
@@ -162,6 +162,14 @@ steps:
           potential partnerships and collaborations with other projects and
           businesses, and the opportunity to be part of an ecosystem focused on
           practical and sustainable applications of Web3.
+      - label: Email
+        required: true
+        type: PublicShortInput
+        uuid: 5a1f939c-8bfc-4d31-b18a-15d6b885756e
+      - label: EVM Compatible Wallet Address
+        required: true
+        type: PublicShortInput
+        uuid: fc898c8f-ad7f-47f1-a206-6819adfa4de1
     uuid: 3c6f6166-7589-4f85-b748-1fc7b3f5bc1c
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_ignite_fuse_867/1691044442087_undraw_engineering_team_a7n2.png
