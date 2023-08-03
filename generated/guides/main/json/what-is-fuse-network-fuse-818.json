@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about our tech stack ",
-  "created": "2023-08-03T05:54:14.989Z",
+  "created": "2023-08-03T05:54:43.122Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-network-fuse-818",
   "name": "What is Fuse Network?",
@@ -10,14 +10,7 @@
     {
       "content": "Fuse Network is a decentralized blockchain platform that was created in 2019 with the goal of providing easy access to Web3 features for businesses and entrepreneurs. It is designed to be enterprise-grade, reliable, and secure, making it suitable for a wide range of use cases. One of the key advantages of Fuse Network is its low gas fees, which average around $0.001 per transaction. Additionally, transaction speeds on the network are very fast, with an average time of below 5 seconds.\n\nThe Fuse Blockchain is open to anyone who wants to build on it, whether they are existing crypto projects, start-ups, or blue-chip companies. It offers a range of enterprise-ready, decentralized technologies that can be leveraged to create and scale Web3 applications. The network also provides a native marketplace for decentralized services, which is run by the community. This marketplace is complemented by a mobile-first SDK that allows businesses to quickly bring their Web3 ideas to life.\n\nFuse Network is particularly well-suited for entrepreneurs and organizations that want to experiment, launch, and scale Web3 apps. It offers a robust and secure blockchain infrastructure platform that is capable of handling enterprise-grade, production-ready applications. The network's low fees and fast transaction speeds make it an attractive option for businesses looking for a scalable blockchain solution. Additionally, the Fuse SDK allows companies to easily integrate Web3 services and crypto payments into their existing mobile products, eliminating the complexities of Web3 development.\n\nThe utility token of the Fuse Network is called Fuse Token (FUSE), which is an ERC-20 token. It can be used as a medium of exchange and as payment to the Fuse Network to approve transactions. Additionally, it can be used to participate in the network's staking mechanism. The Fuse ecosystem is supported by over 100 decentralized service providers, offering a wide range of tools and services such as token bridges, decentralized exchanges, NFT marketplaces, fiat on-ramps, and DID identifiers. This provides project teams and startups with all the necessary resources to build and scale dApps on an EVM-compatible blockchain.\n\nIn order to enhance its capabilities, Fuse Network has implemented Skandha Bundler, a technology that brings Account Abstraction to the network. This makes Fuse an Account Abstraction compatible EVM chain, further expanding its functionality and compatibility with other blockchain systems. Overall, Fuse Network offers a user-friendly and accessible platform for businesses and entrepreneurs to leverage the power of Web3 and build innovative decentralized applications.",
       "name": "What is Fuse Network?",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "c813f4a1-fe27-435b-9bba-b3bb502d8efb"
-        }
-      ],
+      "stepItems": [],
       "uuid": "b0f8519e-84c8-4ffb-bb8d-95f7b3462c2c"
     },
     {
@@ -137,6 +130,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "2ff9ec78-8ded-4afb-9d34-3ce9b3938e72",
+  "uuid": "what-is-fuse-network-fuse-818",
   "version": 1
 }
