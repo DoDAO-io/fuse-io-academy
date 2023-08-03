@@ -1,0 +1,116 @@
+uniqueId: b2fe350d-9e3c-44e4-b27a-718da162ec5e
+id: get-fuse-on-ethereum-using-uniswap-fuse
+name: Get FUSE on Ethereum Using Uniswap
+content: How to Get FUSE on Ethereum Using Uniswap
+created: '2023-08-03T06:55:32.671Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 24881206-6c96-4d90-abce-b8632748a034
+    content: >-
+      Fuse is available on Ethereum, BNB Chain, Polygon, and Fuse, and this
+      guide focuses on getting FUSE on Ethereum using Uniswap.
+    stepItems: []
+  - name: Step 2
+    uuid: 20514089-7dec-4681-b75c-865a6ecdbe6d
+    content: >-
+      Getting FUSE on Ethereum allows for bridging the tokens to Fuse Network,
+      which offers lower gas fees and faster transactions.
+    stepItems: []
+  - name: Step 3
+    uuid: 5d5754c1-aba2-4ecc-921e-ef4a472c00dd
+    content: >-
+      Having FUSE tokens on multiple blockchains enables interoperability,
+      expands accessibility, and increases user adoption and engagement.
+    stepItems: []
+  - name: Step 4
+    uuid: efb83e84-f9b6-4fb1-922d-715aca5d4a27
+    content: >-
+      Tokens on different blockchains can be listed on various exchanges,
+      enhancing liquidity and trading options for users.
+    stepItems: []
+  - name: Step 5
+    uuid: 82bd67c0-872d-4877-952f-164859f9cd9f
+    content: >-
+      To get FUSE on Ethereum using Uniswap, visit the decentralized exchange
+      and connect your MetaMask wallet.
+    stepItems: []
+  - name: Step 6
+    uuid: 1389d645-2459-4309-afce-2813efa625dc
+    content: >-
+      Enter the desired number of FUSE tokens to buy and confirm the swap
+      transaction.
+    stepItems: []
+  - name: Step 7
+    uuid: 546940f7-0e75-47c4-b1ce-4484cc9dffe9
+    content: >-
+      If the FUSE token doesn't appear in your MetaMask wallet, you can manually
+      add it using the token contract address.
+    stepItems: []
+  - name: Step 8
+    uuid: 31d98181-8dcd-434b-9f22-8ba21195af21
+    content: >-
+      To bridge FUSE tokens from Ethereum to Fuse Network, follow the
+      instructions on Voltage Finance, Fuse's leading DEX.
+    stepItems: []
+  - name: Step 9
+    uuid: 6f1b5519-76c8-4334-b6d2-43248c97bc1a
+    content: >-
+      After completing the transfer process, add Fuse Network to your MetaMask
+      wallet using the provided details.
+    stepItems: []
+  - name: Step 10
+    uuid: afacf5cb-1d08-48d3-b61c-55e0b0a2e6b8
+    content: >-
+      With FUSE tokens on Fuse Network, you can participate in staking, yield
+      farming, and other DeFi activities.
+    stepItems: []
+  - name: Evaluation
+    uuid: 33366a45-8e43-4f7b-86cf-1406ab431ee3
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 610a0ad1-1556-41f4-ace8-ad06c4781d54
+        choices:
+          - key: A
+            content: Buy FUSE tokens from a shop
+          - key: B
+            content: Transfer FUSE tokens from BNB Chain to Ethereum
+          - key: C
+            content: Visit the decentralized exchange and connect your MetaMask wallet
+          - key: D
+            content: Send a request to Fuse Network to bridge the tokens
+        content: How can you get FUSE on Ethereum using Uniswap?
+        answerKeys:
+          - C
+        explanation: >-
+          To get FUSE on Ethereum using Uniswap, you need to visit the
+          decentralized exchange and connect your MetaMask wallet.
+  - name: Evaluation
+    uuid: 2ac916b4-9576-43fe-aadf-2ab647514e1c
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 6ad2cba8-1769-4fa5-81d7-58f7b2b3dc29
+        choices:
+          - key: A
+            content: Decreases accessibility and user adoption
+          - key: B
+            content: Reduces liquidity and trading options
+          - key: C
+            content: Increases gas fees and transaction time
+          - key: D
+            content: >-
+              Enables interoperability, expands accessibility, and increases
+              user adoption and engagement
+        content: What are the benefits of having FUSE tokens on multiple blockchains?
+        answerKeys:
+          - D
+        explanation: >-
+          Having FUSE tokens on multiple blockchains enables interoperability,
+          expands accessibility, and increases user adoption and engagement.
+spaceId: fuse
