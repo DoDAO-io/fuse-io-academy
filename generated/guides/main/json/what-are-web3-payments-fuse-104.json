@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Everything you need to know about crypto payments",
-  "created": "2023-08-03T14:51:27.003Z",
+  "created": "2023-08-03T14:52:06.017Z",
   "guideType": "onboarding",
   "key": "what-are-web3-payments-fuse-104",
   "name": "What are Web3 Payments? ",
@@ -130,6 +130,12 @@
           "required": true,
           "type": "PublicShortInput",
           "uuid": "73808ed5-5e26-4a00-a099-9cb209178eb3"
+        },
+        {
+          "label": "EVM Compatible Wallet Address",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "65d165c8-9f7b-476b-b3db-86c4362f0311"
         }
       ],
       "uuid": "b975c031-89a5-42f0-955a-57e58476bbac"
