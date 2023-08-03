@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Merchants, Operators, and Power Validators",
-  "created": "2023-08-03T06:23:40.160Z",
+  "created": "2023-08-03T14:54:05.294Z",
   "guideType": "onboarding",
   "key": "roles-entities-at-fuse-fuse-130",
   "name": "Roles & Entities at Fuse",
@@ -124,6 +124,18 @@
           "type": "SingleChoice",
           "uuid": "6f2ea5cc-fa65-4978-b05c-1e1a4d492ebf",
           "explanation": "Power Validators power the payment infrastructure of the platform, actively validate transactions, and run sequencer nodes that commit transactions in batches to the Fuse Network."
+        },
+        {
+          "label": "Email ",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "bb2c0b00-0e2a-4bc9-b55d-53f83108db9a"
+        },
+        {
+          "label": "EVM Compatible Wallet Address",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "8ea327e9-e1d4-4a26-b268-fa2c9c7d4ecf"
         }
       ],
       "uuid": "7688d60b-b89c-4a39-bf47-bde1ee03a6fa"
