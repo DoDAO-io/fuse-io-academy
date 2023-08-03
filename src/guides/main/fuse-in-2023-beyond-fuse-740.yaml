@@ -1,0 +1,148 @@
+categories: []
+content: New Guide
+created: '2023-08-03T06:06:37.573Z'
+guideType: onboarding
+key: fuse-in-2023-beyond-fuse-740
+name: Fuse in 2023 & Beyond
+publishStatus: Live
+steps:
+  - content: >-
+      Fuse has made significant progress in 2023 and has exciting updates and
+      announcements to share. Over the past three years, Fuse has focused on
+      improving the user experience by deploying robust middleware. This
+      includes a relay service, contract wallets, and a back-end specifically
+      designed to enhance the experience for non-crypto native users. Fuse has
+      deployed over 180K contract wallets to scale these accounts and prepare
+      for future users.
+
+
+      Unlike many other projects, Fuse aims to focus on mainstream adoption use
+      cases that do not require users to become crypto investors. They offer
+      gasless transactions and other features to make it easier for non-crypto
+      users to take advantage of Web3 technology. With the release of ERC-4337,
+      Fuse aims to decentralize its middleware and maintain interoperability
+      with larger blockchain ecosystems. This move has led to collaborations
+      with Power Validators and ERC4337 partners, solidifying Fuse as a tech
+      powerhouse.
+
+
+      Fuse is also introducing a sandbox environment for Spark, allowing users
+      to experiment with the product. They are migrating their legacy middleware
+      and upgrading smart contracts to align with the ERC-4337 standard. This
+      will enable the migration of existing Operators to the new standard and
+      combine the upgraded backend services with a user-friendly interface
+      called the "FuseBox."
+
+
+      In terms of tokenomics, Fuse is transitioning from an inflationary to a
+      deflationary model. They have suggested a maximum supply of 400 million
+      FUSE tokens and will gradually reduce inflation while initiating a base
+      fee burn. These changes will be executed soon, and the Fuse Forum is the
+      place to learn more about the approved tokenomics changes.
+
+
+      Fuse has been actively engaging with Operators, refining marketing and
+      sales strategies, and forming partnerships. They have successfully
+      partnered with Peepl, Bitazza, Chromepay, Zneakrz, and Sanduk, among
+      others. In May 2023, they launched the Fuse Ignite Program, a $10M fund
+      dedicated to empowering real-world and DeFi builders to advance the
+      adoption of Web3 payments. This program has generated positive feedback
+      and quality leads globally.
+
+
+      Fuse has also been active in local and global events, discussing
+      regulatory implications, lecturing at academic institutions, and
+      participating in hackathons. They were even selected to present at the
+      Google Web3 Community event. Fuse believes in transparency and inclusion
+      and will continue to share updates as they move forward with their
+      mission.
+
+
+      In summary, Fuse has made significant strides in 2023 and beyond. They
+      have focused on improving the user experience, decentralizing their
+      middleware, and transitioning to a deflationary model. They have formed
+      partnerships, launched a funding program, and actively participated in
+      events and discussions. Fuse is committed to mainstream adoption and
+      making Web3 technology accessible to all users.
+    name: Fuse in 2023 & Beyond
+    stepItems: []
+    uuid: daeacd31-ec9c-4259-8d4b-d7df46c710ef
+  - content: ''
+    name: Test Your Knoledge
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Developing new cryptocurrencies
+            key: A
+          - content: Deploying robust middleware
+            key: B
+          - content: Investing in traditional stocks
+            key: C
+          - content: Creating a social media platform
+            key: D
+        content: What has Fuse focused on to improve the user experience?
+        type: SingleChoice
+        uuid: f5c580e5-6356-4be1-bf82-9eef32d37439
+        explanation: >-
+          Fuse has focused on improving the user experience by deploying robust
+          middleware, including a relay service, contract wallets, and a
+          back-end specifically designed to enhance the experience for
+          non-crypto native users.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Mainstream adoption use cases that do not require users to become
+              crypto investors
+            key: A
+          - content: Use cases that only target crypto investors
+            key: B
+          - content: Use cases that require users to become crypto investors
+            key: C
+          - content: Use cases that are unrelated to cryptocurrency
+            key: D
+        content: What does Fuse aim to focus on in terms of adoption use cases?
+        type: SingleChoice
+        uuid: 7f07b27d-5ebc-4344-803e-f4ca7c716410
+        explanation: >-
+          Fuse aims to focus on mainstream adoption use cases that do not
+          require users to become crypto investors.
+      - answerKeys:
+          - C
+        choices:
+          - content: A deflationary to an inflationary model
+            key: A
+          - content: A stable to a volatile model
+            key: B
+          - content: An inflationary to a deflationary model
+            key: C
+          - content: A centralized to a decentralized model
+            key: D
+        content: What is Fuse transitioning from in terms of tokenomics?
+        type: SingleChoice
+        uuid: cea0975b-40f9-4f7f-8304-25aaeac9f37d
+        explanation: Fuse is transitioning from an inflationary to a deflationary model.
+      - answerKeys:
+          - D
+        choices:
+          - content: Fuse Accelerate Program
+            key: A
+          - content: Fuse Innovation Program
+            key: B
+          - content: Fuse Growth Program
+            key: C
+          - content: Fuse Ignite Program
+            key: D
+        content: What program did Fuse launch in May 2023?
+        type: SingleChoice
+        uuid: 5b7dd583-d4ba-40bf-a6a2-43cad5f5e1c7
+        explanation: >-
+          Fuse launched the Fuse Ignite Program, a $10M fund dedicated to
+          empowering real-world and DeFi builders to advance the adoption of
+          Web3 payments.
+    uuid: d8d485a8-9e6d-49b4-9338-5eb3f279e77d
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: ec1df35e-4094-4531-9547-1ef74b90e758
+version: 1
