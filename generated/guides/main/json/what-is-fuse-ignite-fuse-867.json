@@ -1,0 +1,135 @@
+{
+  "categories": [],
+  "content": "Developer Funding & Grants",
+  "created": "2023-08-03T06:33:44.773Z",
+  "guideType": "onboarding",
+  "key": "what-is-fuse-ignite-fuse-867",
+  "name": "What is Fuse Ignite?",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "Fuse Ignite is a funding program launched by Fuse with a budget of over $10 million. The program aims to stimulate growth and innovation in various areas of the Fuse ecosystem. It is structured around two main areas: liquidity incentives and developer grants. \n\nThe liquidity incentives program is designed to increase the total value locked (TVL) and the number of token holders on bridged chains. It also aims to increase the number of stakers on Fuse and the number of active validators. This program provides on-chain DeFi incentives to support the growth and expansion of DeFi projects.\n\nOn the other hand, the developer grants program coincides with the deployment of a launchpad on Fuse. The company will provide grants of around $25K to approximately ten projects throughout the rest of 2023. The focus of this program is on real-world operators who leverage Web3 payments for mainstream business adoption.\n\nThe goal of Fuse Ignite is to unshackle businesses from outdated, pre-internet technology. Fuse aims to achieve this by investing in teams and projects that align with their mission. They are looking for projects and technologies that the community can support and interact with, as well as projects that solve basic necessities or add economic value to the ecosystem.\n\nFuse Ignite is set up to accommodate two groups of builders. The first group consists of those who want to build DeFi and Web3 payment applications. The liquidity incentives program provides on-chain incentives to support their projects' growth and expansion. The second group consists of companies that want to leverage their software to build a SaaS business model on Fuse. They aim to become the decentralized middle layer that facilitates business operations.\n\nBy participating in the Fuse Ignite program, builders can benefit from technical assistance and resources from Fuse's team of experts. They also gain increased exposure and visibility within the Fuse ecosystem, potential partnerships and collaborations with other projects and businesses, and the opportunity to be part of an ecosystem focused on practical and sustainable applications of Web3.\n\nOverall, Fuse Ignite is a funding program that aims to drive business adoption of Web3 payments. It provides liquidity incentives and developer grants to support the growth and innovation of projects in the Fuse ecosystem. By investing in teams and projects that align with their mission, Fuse aims to unshackle businesses from outdated technology and bring Web3 payments to mainstream adoption.",
+      "name": "What is Fuse Ignite?",
+      "stepItems": [],
+      "uuid": "a52e6cf2-658b-47d5-8e26-dc534b479ee6"
+    },
+    {
+      "content": "",
+      "name": "Test Your Knowledge",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A program that provides technical assistance and resources to builders",
+              "key": "A"
+            },
+            {
+              "content": "A funding program launched by Fuse to stimulate growth and innovation in the Fuse ecosystem",
+              "key": "B"
+            },
+            {
+              "content": "A program that provides grants to real-world operators for mainstream business adoption",
+              "key": "C"
+            },
+            {
+              "content": "A program that aims to bring Web3 payments to mainstream adoption",
+              "key": "D"
+            }
+          ],
+          "content": "What is Fuse Ignite?",
+          "type": "SingleChoice",
+          "uuid": "188380a5-f3cd-485e-a2ff-9cf0b5a5f351",
+          "explanation": "Fuse Ignite is a funding program launched by Fuse with a budget of over $10 million. It aims to stimulate growth and innovation in various areas of the Fuse ecosystem."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Increasing the total value locked (TVL) and the number of token holders on bridged chains",
+              "key": "A"
+            },
+            {
+              "content": "Providing grants to real-world operators for mainstream business adoption",
+              "key": "B"
+            },
+            {
+              "content": "Supporting the growth and expansion of DeFi projects",
+              "key": "C"
+            },
+            {
+              "content": "Bringing Web3 payments to mainstream adoption",
+              "key": "D"
+            }
+          ],
+          "content": "What is the focus of the liquidity incentives program?",
+          "type": "SingleChoice",
+          "uuid": "42482b4d-a1a9-4857-88db-54a889db8dc8",
+          "explanation": "The liquidity incentives program is designed to increase the total value locked (TVL) and the number of token holders on bridged chains. It also aims to increase the number of stakers on Fuse and the number of active validators."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Increasing the total value locked (TVL) and the number of token holders on bridged chains",
+              "key": "A"
+            },
+            {
+              "content": "Providing grants to real-world operators for mainstream business adoption",
+              "key": "B"
+            },
+            {
+              "content": "Supporting the growth and expansion of DeFi projects",
+              "key": "C"
+            },
+            {
+              "content": "Bringing Web3 payments to mainstream adoption",
+              "key": "D"
+            }
+          ],
+          "content": "What is the focus of the developer grants program?",
+          "type": "SingleChoice",
+          "uuid": "a90620be-095d-4ace-b939-23f29baaa214",
+          "explanation": "The developer grants program coincides with the deployment of a launchpad on Fuse. The company provides grants of around $25K to approximately ten projects throughout the rest of 2023. The focus of this program is on real-world operators who leverage Web3 payments for mainstream business adoption."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Increasing the total value locked (TVL) and the number of token holders on bridged chains",
+              "key": "A"
+            },
+            {
+              "content": "Providing grants to real-world operators for mainstream business adoption",
+              "key": "B"
+            },
+            {
+              "content": "Supporting the growth and expansion of DeFi projects",
+              "key": "C"
+            },
+            {
+              "content": "Gaining technical assistance, exposure, partnerships, and collaborations within the Fuse ecosystem",
+              "key": "D"
+            }
+          ],
+          "content": "What are the benefits of participating in the Fuse Ignite program?",
+          "type": "SingleChoice",
+          "uuid": "1c974fc4-687e-43c1-a6d4-d4d5b856b3c1",
+          "explanation": "By participating in the Fuse Ignite program, builders can benefit from technical assistance and resources from Fuse's team of experts. They also gain increased exposure and visibility within the Fuse ecosystem, potential partnerships and collaborations with other projects and businesses, and the opportunity to be part of an ecosystem focused on practical and sustainable applications of Web3."
+        }
+      ],
+      "uuid": "3c6f6166-7589-4f85-b748-1fc7b3f5bc1c"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "6bbba5e4-f5ed-4ea0-bb31-3d9212bc5deb",
+  "version": 1
+}
