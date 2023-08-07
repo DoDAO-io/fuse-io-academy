@@ -1,6 +1,6 @@
 categories: []
 content: Learn all about AA
-created: '2023-08-07T13:33:42.400Z'
+created: '2023-08-07T13:34:03.011Z'
 guideType: onboarding
 key: what-is-account-abstraction-fuse-615
 name: What is Account Abstraction?
@@ -153,14 +153,6 @@ steps:
         explanation: >-
           Account abstraction is already native to the Ethereum blockchain and
           is also obtainable on EVM-compatible blockchains such as Fuse.
-      - label: Email
-        required: true
-        type: PublicShortInput
-        uuid: 2e539e44-4149-42fb-90e4-a6d2780fa0bd
-      - label: EVM Compatible Wallet Address
-        required: true
-        type: PublicShortInput
-        uuid: 279a54b2-8d1c-4778-b9eb-22afb124ac45
     uuid: 63b32d54-672e-49c9-b2ac-a78725eb7209
   - content: >-
       In order to distribute rewards to successful participants we must have an
