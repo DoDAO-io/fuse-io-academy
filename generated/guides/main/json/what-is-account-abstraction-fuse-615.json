@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Learn all about AA",
-  "created": "2023-08-03T14:49:13.411Z",
+  "created": "2023-08-07T13:33:42.400Z",
   "guideType": "onboarding",
   "key": "what-is-account-abstraction-fuse-615",
   "name": "What is Account Abstraction?",
@@ -139,6 +139,25 @@
         }
       ],
       "uuid": "63b32d54-672e-49c9-b2ac-a78725eb7209"
+    },
+    {
+      "content": "In order to distribute rewards to successful participants we must have an EVM-compatible (such as MetaMask) wallet address and an email address where we can contact you.\n\nOnce the Learn & Earn campaign closes on 13th August 2023 we will collect up the information, analyze and see who won.\n\nThe first 100 participants to answer all 8 quizzes successfully within the time outlined time period (09.08.23 to 13.08.23) will share a prize pool of 35,000 FUSE Tokens.",
+      "name": "Confirm Your Entry",
+      "stepItems": [
+        {
+          "label": "EVM Compatible Wallet Address: ",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "8ff29a97-0ffa-4f78-9f7b-15a693a0855a"
+        },
+        {
+          "label": "Email: ",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "8dd42486-f04b-47d5-b3d8-b89bc15fbc38"
+        }
+      ],
+      "uuid": "9285ed1b-f5ce-4988-9dfb-6876f1abd5b4"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_account_abstraction_fuse_615/1691043704807_undraw_abstract_re_l9xy.png",
