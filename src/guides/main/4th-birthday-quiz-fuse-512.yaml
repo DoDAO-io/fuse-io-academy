@@ -1,0 +1,1153 @@
+categories: []
+content: 'Win your share of FUSE tokens!  '
+created: '2023-08-07T15:27:44.976Z'
+guideType: onboarding
+key: 4th-birthday-quiz-fuse-512
+name: 4th Birthday Quiz
+publishStatus: Live
+steps:
+  - content: >
+      Between the 9th and 13th of August 2023, the first 100 people to answer
+      all the questions correctly will be eligible for a share of 44,444 FUSE
+      tokens. The following 100 correct participants will share 20,000 FUSE. 
+
+
+      Simply work through the quiz and answer the questions after each learning
+      step. In the end, provide your email address and an EVM-compatible wallet
+      address, and you will automatically be entered into the prize draw. 
+    name: Introduction
+    stepItems: []
+    uuid: 2da4367a-b702-43dc-a169-7dd77a68a145
+  - content: >-
+      Web3 is a term used to describe the vision of a new and improved internet.
+      It is a response to the centralized control that large technology
+      companies have over the current web. Web3 aims to embrace
+      decentralization, where the internet is built, operated, and owned by its
+      users.
+
+
+      To understand Web3, it's important to look at the evolution of the web.
+      The early web, known as Web 1.0, was mainly static websites owned by
+      companies. Users had limited interaction and were mostly consumers of
+      content. Then came Web 2.0, which introduced social media platforms and
+      user-generated content. However, despite the ability to create content,
+      users didn't have ownership or control over it.
+
+
+      Web3, also known as the "Read-Write-Own" web, was coined by Ethereum
+      co-founder Gavin Wood. It aims to address the issue of trust in the
+      current web. Web3 utilizes blockchains, cryptocurrencies, and non-fungible
+      tokens (NFTs) to give power back to the users in the form of ownership.
+      With Web3, users have ownership of their digital assets, such as NFTs, and
+      can freely trade or sell them without the fear of someone taking away
+      their ownership.
+
+
+      There are several core principles that guide the creation of Web3. It is
+      decentralized, meaning ownership is distributed among its users and
+      builders, rather than being controlled by centralized entities. Web3 is
+      also permissionless, allowing everyone to participate without exclusion.
+      It has native payments, using cryptocurrencies for online transactions
+      instead of relying on traditional banking systems. Lastly, Web3 is
+      trustless, operating on incentives and economic mechanisms rather than
+      relying on trusted third parties.
+
+
+      Web3 brings several important benefits. One of them is ownership, where
+      users have control over their digital assets and can benefit from their
+      value. It also offers censorship resistance, allowing users to maintain
+      their reputation and following even if they leave a platform. Web3
+      introduces decentralized autonomous organizations (DAOs), which enable
+      collective ownership and decision-making over platforms. Additionally,
+      Web3 provides a secure and anonymous digital identity through Ethereum
+      addresses.
+
+
+      Despite its benefits, Web3 still has limitations. Accessibility is a
+      challenge, as high transaction fees make it less likely to be utilized in
+      less-wealthy nations. The technical barrier to entry is also high,
+      requiring users to understand complex concepts and navigate unintuitive
+      interfaces. Education is crucial to help users understand the new
+      paradigms of Web3. Furthermore, the infrastructure of Web3 is still
+      evolving and relies heavily on centralized platforms.
+
+
+      In conclusion, Web3 represents a new and improved version of the internet
+      that embraces decentralization and user ownership. It utilizes
+      blockchains, cryptocurrencies, and NFTs to give power back to the users.
+      Web3 brings benefits such as ownership, censorship resistance,
+      decentralized autonomous organizations, and secure digital identities.
+      However, there are still challenges to overcome, including accessibility,
+      user experience, education, and the development of decentralized
+      infrastructure. Despite these challenges, the future of the web looks
+      promising with the continued development and adoption of Web3.
+    name: What is Web3?
+    stepItems: []
+    uuid: 8e2f1422-3d5b-45d7-afb6-9b372c9aaa6b
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              To increase the control of large technology companies over the
+              internet
+            key: A
+          - content: >-
+              To embrace decentralization and give ownership of the internet to
+              its users
+            key: B
+          - content: To reduce the use of the internet
+            key: C
+          - content: To eliminate the use of cryptocurrencies
+            key: D
+        content: What is the main aim of Web3?
+        type: SingleChoice
+        uuid: cb8ded60-62b5-4d52-a2a7-0f830fbb513a
+        explanation: >-
+          Web3 aims to embrace decentralization, where the internet is built,
+          operated, and owned by its users.
+      - answerKeys:
+          - C
+        choices:
+          - content: The founder of Bitcoin
+            key: A
+          - content: The founder of Facebook
+            key: B
+          - content: Ethereum co-founder Gavin Wood
+            key: C
+          - content: The founder of Google
+            key: D
+        content: Who coined the term Web3?
+        type: SingleChoice
+        uuid: ee9a2e21-55e5-45d1-88c8-62653b6f6b43
+        explanation: >-
+          Web3, also known as the 'Read-Write-Own' web, was coined by Ethereum
+          co-founder Gavin Wood.
+      - answerKeys:
+          - D
+        choices:
+          - content: >-
+              Centralization, exclusion, traditional banking systems, and
+              reliance on trusted third parties
+            key: A
+          - content: >-
+              Centralization, permissionless, traditional banking systems, and
+              reliance on trusted third parties
+            key: B
+          - content: >-
+              Decentralization, exclusion, use of cryptocurrencies, and reliance
+              on trusted third parties
+            key: C
+          - content: >-
+              Decentralization, permissionless, use of cryptocurrencies, and
+              operating on incentives and economic mechanisms
+            key: D
+        content: What are the core principles that guide the creation of Web3?
+        type: SingleChoice
+        uuid: fc6ed85c-27cb-40a2-9813-78893e82368e
+        explanation: >-
+          Web3 is decentralized, permissionless, has native payments using
+          cryptocurrencies, and is trustless, operating on incentives and
+          economic mechanisms rather than relying on trusted third parties.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Accessibility, high technical barrier to entry, need for
+              education, and evolving infrastructure
+            key: A
+          - content: >-
+              Low technical barrier to entry, no need for education, and stable
+              infrastructure
+            key: B
+          - content: >-
+              Accessibility, low technical barrier to entry, no need for
+              education, and stable infrastructure
+            key: C
+          - content: >-
+              Inaccessibility, high technical barrier to entry, need for
+              education, and stable infrastructure
+            key: D
+        content: What are the challenges of Web3?
+        type: SingleChoice
+        uuid: 86494a97-291a-4369-9a51-56002591a7b6
+        explanation: >-
+          Accessibility, high technical barrier to entry, need for education to
+          understand new paradigms, and the evolving infrastructure that still
+          relies on centralized platforms are the challenges of Web3.
+    uuid: 072cc2f6-4067-4f49-89fb-63de8728c94f
+  - content: >-
+      Web3 payments refer to the use of blockchain technology to facilitate the
+      exchange of digital assets. In the new age of decentralized internet
+      applications, known as Web3, people can access and create content, code,
+      and assets. Web3 offers a wide range of potential applications, including
+      creating financial ecosystems, providing identity management solutions,
+      and revolutionizing gaming and digital art. Web3 payments are innovative
+      and technologically advanced, allowing users to send, receive, and store
+      digital assets securely.
+
+
+      One of the key features of Web3 payments is that they eliminate the need
+      for intermediaries like banks, payment processors, and brokers.
+      Transactions are entirely peer-to-peer and built on trustless logical
+      systems, meaning no third party is required to facilitate the transaction.
+      This allows for instantaneous transactions with low fees, depending on the
+      amount sent or received.
+
+
+      Blockchain technology is the backbone of Web3 payments and
+      cryptocurrencies. Bitcoin, which was the first cryptocurrency to use
+      blockchain technology, paved the way for Web3 payments and decentralized
+      finance. Since then, many other networks have been developed, with
+      Ethereum and its ETH coin being at the center of Web3 action. Ethereum and
+      its side chains, like Fuse, BNB Chain, and Polygon, are leading the way in
+      crypto payments across Web3.
+
+
+      When it comes to choosing cryptocurrencies for Web3 payments, it's
+      important to consider factors like transaction speed and fees. While
+      Bitcoin may not be suitable for everyday transactions due to its slow
+      speed and high fees, cryptocurrencies like Ethereum and stablecoins are
+      more suitable. Stablecoins are tokens pegged to the value of a fiat
+      currency, making them less volatile and more suitable for Web3 payments.
+
+
+      Web3 payments have the potential to revolutionize the way we transact and
+      conduct business. More businesses are starting to accept crypto and Web3
+      payments, leading to an increase in products and services available for
+      Web3 payments. Accepting crypto payments can be cheaper and more efficient
+      than traditional payment methods, allowing businesses to reach a global
+      audience and increase sales.
+
+
+      However, it's important to approach Web3 payments with caution. It's
+      crucial to understand the technology and educate yourself about the
+      cryptocurrency market before making any decisions. It's also important to
+      take safety precautions, such as not sharing your private keys and being
+      cautious of scams. Additionally, it's important to be aware of the
+      taxation laws in your region regarding crypto income and capital gains.
+
+
+      In conclusion, Web3 payments are an innovative and technologically
+      advanced way of conducting transactions. They eliminate the need for
+      intermediaries and allow for peer-to-peer transactions with low fees.
+      Blockchain technology is the backbone of Web3 payments, and
+      cryptocurrencies like Ethereum and stablecoins are suitable for Web3
+      transactions. Businesses can benefit from accepting crypto payments, but
+      it's important to approach Web3 payments with caution and educate yourself
+      about the technology and market.
+    name: What are Web3 Payments?
+    stepItems: []
+    uuid: 4f83855c-b932-4566-a1b1-b2502cc9e28d
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: The use of internet to facilitate the exchange of physical assets
+            key: A
+          - content: >-
+              The use of blockchain technology to facilitate the exchange of
+              physical assets
+            key: B
+          - content: >-
+              The use of blockchain technology to facilitate the exchange of
+              digital assets
+            key: C
+          - content: The use of internet to facilitate the exchange of digital assets
+            key: D
+        content: What does Web3 payments refer to?
+        type: SingleChoice
+        uuid: 44ba7700-81cf-409d-9c6d-788335647c71
+        explanation: >-
+          Web3 payments refer to the use of blockchain technology to facilitate
+          the exchange of digital assets.
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              They require intermediaries like banks, payment processors, and
+              brokers
+            key: A
+          - content: >-
+              They eliminate the need for intermediaries like banks, payment
+              processors, and brokers
+            key: B
+          - content: They require a third party to facilitate the transaction
+            key: C
+          - content: They cannot be used for peer-to-peer transactions
+            key: D
+        content: What is a key feature of Web3 payments?
+        type: SingleChoice
+        uuid: fbafbf43-002b-4781-9d2b-8a0f8149cb5f
+        explanation: >-
+          One of the key features of Web3 payments is that they eliminate the
+          need for intermediaries like banks, payment processors, and brokers.
+      - answerKeys:
+          - D
+        choices:
+          - content: Artificial Intelligence
+            key: A
+          - content: Machine Learning
+            key: B
+          - content: Internet of Things
+            key: C
+          - content: Blockchain technology
+            key: D
+        content: What technology is the backbone of Web3 payments?
+        type: SingleChoice
+        uuid: dbffcd37-4363-4f1a-8d8f-92f9aa11352a
+        explanation: >-
+          Blockchain technology is the backbone of Web3 payments and
+          cryptocurrencies.
+      - answerKeys:
+          - A
+        choices:
+          - content: Transaction speed and fees
+            key: A
+          - content: The color of the cryptocurrency logo
+            key: B
+          - content: The popularity of the cryptocurrency
+            key: C
+          - content: The age of the cryptocurrency
+            key: D
+        content: >-
+          What should be considered when choosing cryptocurrencies for Web3
+          payments?
+        type: SingleChoice
+        uuid: daec5bcb-ae67-43f2-a6d9-7c53f18b7d7a
+        explanation: >-
+          When choosing cryptocurrencies for Web3 payments, it's important to
+          consider factors like transaction speed and fees.
+    uuid: a94b50a6-6fb3-4ea0-8bc3-c571db0e0de7
+  - content: >-
+      Account abstraction is a concept in blockchain technology that simplifies
+      the user experience and opens up new possibilities for decentralized
+      applications. It allows developers to create smart contracts that can be
+      paid for by someone other than the contract's user. This means that users
+      do not need to have any cryptocurrency in their account to use the
+      contract. Account abstraction combines features of externally owned
+      accounts (EOA) and smart contract accounts, creating a single contract
+      account capable of transacting with tokens and creating contracts
+      simultaneously.
+
+
+      One of the main benefits of account abstraction is that it simplifies the
+      onboarding process for new users. They can now access crypto and
+      blockchain applications without needing to learn new behaviors or even
+      have any crypto in their wallet. This is especially important in emerging
+      markets where there is a high demand for financial services and a need for
+      efficient and cost-effective digital payment solutions. Account
+      abstraction can help increase the adoption of blockchain technology by
+      making it easier for people to use smart contracts.
+
+
+      Another advantage of account abstraction is that it enables wallets to
+      perform automatic gas management, transaction batching, and contract
+      interactions while maintaining user control over funds. This means that
+      users have more flexibility and control over their transactions, enhancing
+      their privacy and security. By abstracting the account, wallets can
+      perform complex tasks without requiring users to have a deep understanding
+      of the underlying technology.
+
+
+      Account abstraction is already native to the Ethereum blockchain and is
+      also obtainable on EVM-compatible blockchains such as Fuse. Fuse has been
+      implementing account abstraction since 2019, allowing developers to create
+      specialized transaction types tailored to specific needs. However, there
+      are limitations to the current implementation, such as the lack of a
+      standard or ERC, making it challenging to use open-source software and
+      follow best practices. To address these limitations, Fuse plans to
+      introduce a new model for account abstraction based on the Ethereum
+      ERC-4337 standard in 2023.
+
+
+      Overall, account abstraction is a significant development in blockchain
+      technology. It simplifies the user experience, enhances transaction
+      flexibility, and improves privacy and security. It has the potential to
+      bring decentralized applications to a mainstream audience and drive the
+      adoption of smart contracts. By allowing users to pay for smart contracts
+      without needing cryptocurrency in their accounts, account abstraction
+      makes it easier for people to access and use blockchain technology.
+    name: What is Account Abstraction?
+    stepItems: []
+    uuid: b8a413ec-eca4-466d-9876-3cd9a0a0e263
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Create smart contracts that can be paid for by someone other than
+              the contract's user
+            key: A
+          - content: >-
+              Create smart contracts that can only be paid for by the contract's
+              user
+            key: B
+          - content: Create smart contracts that cannot be paid for by anyone
+            key: C
+          - content: >-
+              Create smart contracts that can only be paid for by the contract's
+              creator
+            key: D
+        content: >-
+          What does account abstraction in blockchain technology allow
+          developers to do?
+        type: SingleChoice
+        uuid: f13cee0b-646a-458d-b238-edfef3f59692
+        explanation: >-
+          Account abstraction allows developers to create smart contracts that
+          can be paid for by someone other than the contract's user. This means
+          that users do not need to have any cryptocurrency in their account to
+          use the contract.
+      - answerKeys:
+          - B
+        choices:
+          - content: It complicates the onboarding process for new users
+            key: A
+          - content: It simplifies the onboarding process for new users
+            key: B
+          - content: It has no effect on the onboarding process for new users
+            key: C
+          - content: It makes the onboarding process for new users more difficult
+            key: D
+        content: What is one of the main benefits of account abstraction?
+        type: SingleChoice
+        uuid: 865fcb52-dd78-471e-bb05-c2751c89f3db
+        explanation: >-
+          One of the main benefits of account abstraction is that it simplifies
+          the onboarding process for new users. They can now access crypto and
+          blockchain applications without needing to learn new behaviors or even
+          have any crypto in their wallet.
+      - answerKeys:
+          - D
+        choices:
+          - content: Only transaction batching
+            key: A
+          - content: Only contract interactions
+            key: B
+          - content: Only automatic gas management
+            key: C
+          - content: >-
+              Automatic gas management, transaction batching, and contract
+              interactions
+            key: D
+        content: What does account abstraction enable wallets to perform?
+        type: SingleChoice
+        uuid: 1ad93b5b-9d68-45f5-b29d-55889e1893b0
+        explanation: >-
+          Account abstraction enables wallets to perform automatic gas
+          management, transaction batching, and contract interactions while
+          maintaining user control over funds.
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              It could make decentralized applications less appealing to a
+              mainstream audience
+            key: A
+          - content: >-
+              It could have no impact on the adoption of decentralized
+              applications
+            key: B
+          - content: It could bring decentralized applications to a mainstream audience
+            key: C
+          - content: It could reduce the adoption of decentralized applications
+            key: D
+        content: >-
+          What is the potential impact of account abstraction on decentralized
+          applications?
+        type: SingleChoice
+        uuid: 8cb2aecf-b34d-4933-8010-b99a5564de63
+        explanation: >-
+          Account abstraction has the potential to bring decentralized
+          applications to a mainstream audience and drive the adoption of smart
+          contracts.
+    uuid: 81dab7db-b2cd-415e-866d-34797a7fb955
+  - content: >-
+      Fuse Network is a decentralized blockchain platform that was created in
+      2019 with the goal of providing easy access to Web3 features for
+      businesses and entrepreneurs. It is designed to be enterprise-grade,
+      reliable, and secure, making it suitable for a wide range of use cases.
+      One of the key advantages of Fuse Network is its low gas fees, which
+      average around $0.001 per transaction. Additionally, transaction speeds on
+      the network are very fast, with an average time of below 5 seconds.
+
+
+      The Fuse Blockchain is open to anyone who wants to build on it, whether
+      they are existing crypto projects, start-ups, or blue-chip companies. It
+      offers a range of enterprise-ready, decentralized technologies that can be
+      leveraged to create and scale Web3 applications. The network also provides
+      a native marketplace for decentralized services, which is run by the
+      community. This marketplace is complemented by a mobile-first SDK that
+      allows businesses to quickly bring their Web3 ideas to life.
+
+
+      Fuse Network is particularly well-suited for entrepreneurs and
+      organizations that want to experiment, launch, and scale Web3 apps. It
+      offers a robust and secure blockchain infrastructure platform that is
+      capable of handling enterprise-grade, production-ready applications. The
+      network's low fees and fast transaction speeds make it an attractive
+      option for businesses looking for a scalable blockchain solution.
+      Additionally, the Fuse SDK allows companies to easily integrate Web3
+      services and crypto payments into their existing mobile products,
+      eliminating the complexities of Web3 development.
+
+
+      The utility token of the Fuse Network is called Fuse Token (FUSE), which
+      is an ERC-20 token. It can be used as a medium of exchange and as payment
+      to the Fuse Network to approve transactions. Additionally, it can be used
+      to participate in the network's staking mechanism. The Fuse ecosystem is
+      supported by over 100 decentralized service providers, offering a wide
+      range of tools and services such as token bridges, decentralized
+      exchanges, NFT marketplaces, fiat on-ramps, and DID identifiers. This
+      provides project teams and startups with all the necessary resources to
+      build and scale dApps on an EVM-compatible blockchain.
+
+
+      In order to enhance its capabilities, Fuse Network has implemented Skandha
+      Bundler, a technology that brings Account Abstraction to the network. This
+      makes Fuse an Account Abstraction compatible EVM chain, further expanding
+      its functionality and compatibility with other blockchain systems.
+      Overall, Fuse Network offers a user-friendly and accessible platform for
+      businesses and entrepreneurs to leverage the power of Web3 and build
+      innovative decentralized applications.
+    name: What is Fuse Network?
+    stepItems: []
+    uuid: 549cbad7-ae4e-4caf-992a-0b6e0f93d3bc
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To provide high gas fees for transactions
+            key: A
+          - content: >-
+              To provide easy access to Web3 features for businesses and
+              entrepreneurs
+            key: B
+          - content: To slow down transaction speeds
+            key: C
+          - content: To limit access to Web3 features
+            key: D
+        content: What is the primary goal of Fuse Network?
+        type: SingleChoice
+        uuid: 11a24e65-2cdb-4ba2-958d-a3cdc0dea9af
+        explanation: >-
+          Fuse Network was created with the goal of providing easy access to
+          Web3 features for businesses and entrepreneurs.
+      - answerKeys:
+          - C
+        choices:
+          - content: 10 seconds
+            key: A
+          - content: 15 seconds
+            key: B
+          - content: Below 5 seconds
+            key: C
+          - content: 20 seconds
+            key: D
+        content: What is the average transaction speed on the Fuse Network?
+        type: SingleChoice
+        uuid: 58844e9b-9c3d-4ca5-a34b-f9c740e8c5d0
+        explanation: >-
+          Transaction speeds on the Fuse Network are very fast, with an average
+          time of below 5 seconds.
+      - answerKeys:
+          - D
+        choices:
+          - content: Ether
+            key: A
+          - content: Bitcoin
+            key: B
+          - content: Litecoin
+            key: C
+          - content: Fuse Token (FUSE)
+            key: D
+        content: What is the utility token of the Fuse Network?
+        type: SingleChoice
+        uuid: e60f88d5-a707-4a4a-a57e-1d70ab75ec6a
+        explanation: >-
+          The utility token of the Fuse Network is called Fuse Token (FUSE),
+          which is an ERC-20 token.
+      - answerKeys:
+          - A
+        choices:
+          - content: Skandha Bundler
+            key: A
+          - content: Ether Bundler
+            key: B
+          - content: Bitcoin Bundler
+            key: C
+          - content: Litecoin Bundler
+            key: D
+        content: >-
+          What technology has Fuse Network implemented to enhance its
+          capabilities?
+        type: SingleChoice
+        uuid: e2827c8a-8471-491d-85ee-5fc03b61f5f9
+        explanation: >-
+          Fuse Network has implemented Skandha Bundler, a technology that brings
+          Account Abstraction to the network.
+    uuid: 89ec7db3-c64a-47ad-9b7c-cdc71e140705
+  - content: >-
+      Fuse Network is a payment-focused blockchain ecosystem that aims to become
+      more robust and decentralized. To achieve this, the Fuse ecosystem has
+      outlined three core entities: Merchants, Operators, and Power Validators.
+      As a Layer-1 blockchain, Fuse does not depend on any other blockchain for
+      finalizing transactions, making it a reliable and independent network.
+
+
+      Merchants play a crucial role in the Fuse ecosystem. They can easily
+      integrate decentralized payment services provided by Operators into their
+      existing applications. This allows them to quickly start accepting
+      payments and conducting business on the Fuse Network. Merchants can also
+      utilize out-of-the-box services such as accounting, invoicing, point of
+      sale, and eCommerce plugins, making it convenient for them to manage their
+      operations.
+
+
+      Operators are the backbone of the decentralized middleware layer on the
+      Fuse Network. They can be real-world businesses, applications, games, or
+      anything that can run on the Fuse blockchain. Operators are responsible
+      for onboarding users to applications on Fuse and ensuring compliance with
+      local regulations. They build products and services that utilize the Fuse
+      Network for their clients, providing critical services to make
+      applications run smoothly.
+
+
+      Power Validators are essential for achieving decentralization on the Fuse
+      Network. They power the payment infrastructure of the platform and
+      actively validate transactions. Their role is crucial in ensuring the
+      desired level of decentralization that makes sense for businesses. Power
+      Validators also run sequencer nodes that commit transactions in batches to
+      the Fuse Network, contributing to its scalability and fault tolerance.
+
+
+      Fuse Network offers a full-stack solution, unlike many other networks that
+      rely on Ethereum infrastructure. It provides businesses with everything
+      they need to access the Fuse Network, making it a compelling option for
+      developers looking to build decentralized applications and smart
+      contracts. Being a Layer-1 blockchain, Fuse has the flexibility to focus
+      on its desired vertical and not follow the path set by Ethereum
+      development.
+
+
+      In the coming year, Fuse aims to onboard more Operators, enhance privacy,
+      and further decentralize its ecosystem. By implementing Skandha Bundler,
+      Fuse becomes an Account Abstraction compatible EVM chain, adding more
+      functionality and compatibility to its network. Fuse was designed to be
+      user-friendly for both blockchain and non-blockchain developers, making it
+      accessible to a wide range of users and businesses.
+    name: Fuse Network Roles & Entities
+    stepItems: []
+    uuid: 27d9e4eb-f326-4a0f-89ac-1d645de9f7f8
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To depend on other blockchains for finalizing transactions
+            key: A
+          - content: >-
+              To become a more robust and decentralized payment-focused
+              blockchain ecosystem
+            key: B
+          - content: To follow the path set by Ethereum development
+            key: C
+          - content: To become a platform for games
+            key: D
+        content: What is the main aim of Fuse Network?
+        type: SingleChoice
+        uuid: a47856f3-c54d-4dc6-a095-03a4a83ce6ba
+        explanation: >-
+          Fuse Network aims to become a more robust and decentralized
+          payment-focused blockchain ecosystem.
+      - answerKeys:
+          - D
+        choices:
+          - content: To power the payment infrastructure of the platform
+            key: A
+          - content: To validate transactions
+            key: B
+          - content: To ensure compliance with local regulations
+            key: C
+          - content: >-
+              To integrate decentralized payment services into their existing
+              applications and start accepting payments
+            key: D
+        content: What is the role of Merchants in the Fuse ecosystem?
+        type: SingleChoice
+        uuid: 474dc1b2-54ef-464f-aa30-78312d7d4bb5
+        explanation: >-
+          Merchants can integrate decentralized payment services into their
+          existing applications, start accepting payments and conducting
+          business on the Fuse Network. They can also utilize services such as
+          accounting, invoicing, point of sale, and eCommerce plugins.
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              Those who integrate decentralized payment services into their
+              existing applications
+            key: A
+          - content: >-
+              Those who are responsible for onboarding users to applications on
+              Fuse
+            key: B
+          - content: >-
+              Those who power the payment infrastructure of the platform and
+              actively validate transactions
+            key: C
+          - content: >-
+              Those who build products and services that utilize the Fuse
+              Network for their clients
+            key: D
+        content: Who are the Power Validators in the Fuse Network?
+        type: SingleChoice
+        uuid: 1c442773-741f-4678-b039-d94e0801466d
+        explanation: >-
+          Power Validators power the payment infrastructure of the platform and
+          actively validate transactions. They also run sequencer nodes that
+          commit transactions in batches to the Fuse Network.
+      - answerKeys:
+          - B
+        choices:
+          - content: A platform to play games
+            key: A
+          - content: >-
+              A full-stack solution to access the Fuse Network and build
+              decentralized applications and smart contracts
+            key: B
+          - content: A platform to follow the path set by Ethereum development
+            key: C
+          - content: A platform to validate transactions
+            key: D
+        content: What does Fuse Network offer to businesses?
+        type: SingleChoice
+        uuid: 0de17a15-3698-4c73-bae5-bf2a0fddb162
+        explanation: >-
+          Fuse Network offers a full-stack solution, providing businesses with
+          everything they need to access the Fuse Network. It is a compelling
+          option for developers looking to build decentralized applications and
+          smart contracts.
+    uuid: e6fb9752-70bb-4da1-a0bd-149c6154f727
+  - content: >-
+      Fuse Ignite is a funding program launched by Fuse with a budget of over
+      $10 million. The program aims to stimulate growth and innovation in
+      various areas of the Fuse ecosystem. It is structured around two main
+      areas: liquidity incentives and developer grants.
+
+
+      The liquidity incentives program is designed to increase the total value
+      locked (TVL) and the number of token holders on bridged chains. It also
+      aims to increase the number of stakers on Fuse and the number of active
+      validators. This program provides on-chain DeFi incentives to support the
+      growth and expansion of DeFi projects.
+
+
+      On the other hand, the developer grants program coincides with the
+      deployment of a launchpad on Fuse. The company will provide grants of
+      around $25K to approximately ten projects throughout the rest of 2023. The
+      focus of this program is on real-world operators who leverage Web3
+      payments for mainstream business adoption.
+
+
+      The goal of Fuse Ignite is to unshackle businesses from outdated,
+      pre-internet technology. Fuse aims to achieve this by investing in teams
+      and projects that align with their mission. They are looking for projects
+      and technologies that the community can support and interact with, as well
+      as projects that solve basic necessities or add economic value to the
+      ecosystem.
+
+
+      Fuse Ignite is set up to accommodate two groups of builders. The first
+      group consists of those who want to build DeFi and Web3 payment
+      applications. The liquidity incentives program provides on-chain
+      incentives to support their projects' growth and expansion. The second
+      group consists of companies that want to leverage their software to build
+      a SaaS business model on Fuse. They aim to become the decentralized middle
+      layer that facilitates business operations.
+
+
+      By participating in the Fuse Ignite program, builders can benefit from
+      technical assistance and resources from Fuse's team of experts. They also
+      gain increased exposure and visibility within the Fuse ecosystem,
+      potential partnerships and collaborations with other projects and
+      businesses, and the opportunity to be part of an ecosystem focused on
+      practical and sustainable applications of Web3.
+
+
+      Overall, Fuse Ignite is a funding program that aims to drive business
+      adoption of Web3 payments. It provides liquidity incentives and developer
+      grants to support the growth and innovation of projects in the Fuse
+      ecosystem. By investing in teams and projects that align with their
+      mission, Fuse aims to unshackle businesses from outdated technology and
+      bring Web3 payments to mainstream adoption.
+    name: What is Fuse Ignite?
+    stepItems: []
+    uuid: f56025a6-2fa5-4ee6-9107-002fea55e0cf
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To increase the number of token holders on bridged chains
+            key: A
+          - content: To increase the number of stakers on Fuse
+            key: B
+          - content: >-
+              To stimulate growth and innovation in various areas of the Fuse
+              ecosystem
+            key: C
+          - content: To increase the number of active validators
+            key: D
+        content: What is the main aim of the Fuse Ignite program?
+        type: SingleChoice
+        uuid: 0e9cb660-9ee0-40bb-b0c2-364ecf10378a
+        explanation: >-
+          The main aim of the Fuse Ignite program is to stimulate growth and
+          innovation in various areas of the Fuse ecosystem through liquidity
+          incentives and developer grants.
+      - answerKeys:
+          - B
+        choices:
+          - content: To increase the total value locked (TVL)
+            key: A
+          - content: >-
+              Real-world operators who leverage Web3 payments for mainstream
+              business adoption
+            key: B
+          - content: To increase the number of token holders on bridged chains
+            key: C
+          - content: To increase the number of stakers on Fuse
+            key: D
+        content: What is the focus of the developer grants program?
+        type: SingleChoice
+        uuid: 66199a2f-5c32-4b9b-bc20-31a870d0f8f6
+        explanation: >-
+          The focus of the developer grants program is on real-world operators
+          who leverage Web3 payments for mainstream business adoption.
+      - answerKeys:
+          - D
+        choices:
+          - content: Token holders
+            key: A
+          - content: Stakers
+            key: B
+          - content: Validators
+            key: C
+          - content: Builders
+            key: D
+        content: Who can benefit from the Fuse Ignite program?
+        type: SingleChoice
+        uuid: 87865c11-c72e-4ee6-877e-e8cb1aedc96f
+        explanation: >-
+          Builders can benefit from the Fuse Ignite program as they can get
+          technical assistance and resources from Fuse's team of experts,
+          increased exposure and visibility within the Fuse ecosystem, potential
+          partnerships and collaborations, and the opportunity to be part of an
+          ecosystem focused on practical and sustainable applications of Web3.
+      - answerKeys:
+          - A
+        choices:
+          - content: To unshackle businesses from outdated, pre-internet technology
+            key: A
+          - content: To increase the total value locked (TVL)
+            key: B
+          - content: To increase the number of token holders on bridged chains
+            key: C
+          - content: To increase the number of stakers on Fuse
+            key: D
+        content: What is the goal of Fuse Ignite?
+        type: SingleChoice
+        uuid: b891a132-300c-43c2-abb8-1c5eb7f60ff1
+        explanation: >-
+          The goal of Fuse Ignite is to unshackle businesses from outdated,
+          pre-internet technology by investing in teams and projects that align
+          with their mission.
+    uuid: b4a58066-b902-41e2-9748-3e23ba93c4bd
+  - content: >-
+      FUSE Staking is a process that allows holders of FUSE tokens to earn a
+      passive income. By locking up their tokens, they can earn an annual
+      percentage yield (APY) of more than 10%. This means that if you stake
+      $1000 worth of FUSE tokens, you could earn around $100 in passive income
+      after one year.
+
+
+      The great thing about FUSE Staking is that it is a simple and
+      straightforward process. You don't need to run a validator node or have
+      any technical knowledge. All you need to do is stake your FUSE tokens and
+      you can start earning rewards. This allows anyone who holds enough FUSE
+      tokens to participate in securing and governing the Fuse Network.
+
+
+      Running a validator node in the Fuse Network involves approving
+      transactions, and the more communities and users conducting transactions,
+      the more validators can earn as a reward. This incentivizes validators to
+      participate, build, and onboard users into the Fuse Network, which helps
+      the network grow organically.
+
+
+      If you're interested in staking but don't currently hold FUSE tokens, you
+      can obtain them from various exchanges. Once you have the tokens, you can
+      bridge them to the Fuse Network if you hold them on another network like
+      Ethereum or BNB Chain. Voltage Finance can assist you with this process.
+
+
+      To stake your FUSE tokens, you can visit the dedicated FUSE staking page.
+      There, you will find a list of official Fuse Network validators to choose
+      from. Each option is safe and viable, so you can choose based on factors
+      like uptime and fees. Once you've made your choice, you can connect your
+      blockchain wallet and initiate the staking transaction.
+
+
+      It's important to note that once you stake your tokens, they will be
+      removed from your wallet and placed into a staking contract. This means
+      that your wallet balance of FUSE will decrease depending on how much you
+      stake. However, the benefits of staking FUSE are worth it. Not only do you
+      earn more FUSE, but you also contribute to the security and efficiency of
+      the Fuse blockchain.
+
+
+      Overall, FUSE Staking is a great way for FUSE token holders to put their
+      assets to work and earn a passive income. It's a simple and accessible
+      process that allows anyone to participate in securing and governing the
+      Fuse Network. By staking their tokens, holders can earn rewards while also
+      contributing to the growth and development of the network.
+    name: What is FUSE Staking?
+    stepItems: []
+    uuid: 1c4d4876-21d3-46ce-a4f2-34a89fa124e6
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: A method of mining new FUSE tokens
+            key: A
+          - content: A process of buying and selling FUSE tokens
+            key: B
+          - content: >-
+              A process that allows holders of FUSE tokens to earn a passive
+              income by locking up their tokens
+            key: C
+          - content: A method of transferring FUSE tokens between wallets
+            key: D
+        content: What is FUSE Staking?
+        type: SingleChoice
+        uuid: f8ceeb9d-c098-41fd-85dc-9b6051b9534c
+        explanation: >-
+          FUSE Staking is a process that allows holders of FUSE tokens to earn a
+          passive income by locking up their tokens.
+      - answerKeys:
+          - B
+        choices:
+          - content: To mine new FUSE tokens
+            key: A
+          - content: To approve transactions
+            key: B
+          - content: To sell FUSE tokens
+            key: C
+          - content: To buy FUSE tokens
+            key: D
+        content: What is the role of a validator node in the Fuse Network?
+        type: SingleChoice
+        uuid: b738003f-29bb-4998-9878-e2ddc7371f3b
+        explanation: >-
+          Running a validator node in the Fuse Network involves approving
+          transactions.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              They are removed from your wallet and placed into a staking
+              contract
+            key: A
+          - content: They are doubled in your wallet
+            key: B
+          - content: They are converted into another cryptocurrency
+            key: C
+          - content: They remain in your wallet but cannot be used
+            key: D
+        content: What happens to your FUSE tokens when you stake them?
+        type: SingleChoice
+        uuid: f96ee2f6-36b7-4838-8b24-9bbfbcf4cc52
+        explanation: >-
+          Once you stake your tokens, they will be removed from your wallet and
+          placed into a staking contract.
+      - answerKeys:
+          - D
+        choices:
+          - content: You can double your FUSE tokens
+            key: A
+          - content: You can convert your FUSE tokens into another cryptocurrency
+            key: B
+          - content: You can transfer your FUSE tokens without any fees
+            key: C
+          - content: >-
+              You earn more FUSE and contribute to the security and efficiency
+              of the Fuse blockchain
+            key: D
+        content: What are the benefits of staking FUSE?
+        type: SingleChoice
+        uuid: df93b051-0721-4f20-9b78-15aa90ee0dce
+        explanation: >-
+          By staking FUSE, you not only earn more FUSE, but also contribute to
+          the security and efficiency of the Fuse blockchain.
+    uuid: e2f4c547-c811-487f-b0d3-3c3bbb7aeecf
+  - content: >-
+      Fuse has made significant progress in 2023 and has exciting updates and
+      announcements to share. Over the past three years, Fuse has focused on
+      improving the user experience by deploying robust middleware. This
+      includes a relay service, contract wallets, and a back-end specifically
+      designed to enhance the experience for non-crypto native users. Fuse has
+      deployed over 180K contract wallets to scale these accounts and prepare
+      for future users.
+
+
+      Unlike many other projects, Fuse aims to focus on mainstream adoption use
+      cases that do not require users to become crypto investors. They offer
+      gasless transactions and other features to make it easier for non-crypto
+      users to take advantage of Web3 technology. With the release of ERC-4337,
+      Fuse aims to decentralize its middleware and maintain interoperability
+      with larger blockchain ecosystems. This move has led to collaborations
+      with Power Validators and ERC4337 partners, solidifying Fuse as a tech
+      powerhouse.
+
+
+      Fuse is also introducing a sandbox environment for Spark, allowing users
+      to experiment with the product. They are migrating their legacy middleware
+      and upgrading smart contracts to align with the ERC-4337 standard. This
+      will enable the migration of existing Operators to the new standard and
+      combine the upgraded backend services with a user-friendly interface
+      called the "FuseBox."
+
+
+      In terms of tokenomics, Fuse is transitioning from an inflationary to a
+      deflationary model. They have suggested a maximum supply of 400 million
+      FUSE tokens and will gradually reduce inflation while initiating a base
+      fee burn. These changes will be executed soon, and the Fuse Forum is the
+      place to learn more about the approved tokenomics changes.
+
+
+      Fuse has been actively engaging with Operators, refining marketing and
+      sales strategies, and forming partnerships. They have successfully
+      partnered with Peepl, Bitazza, Chromepay, Zneakrz, and Sanduk, among
+      others. In May 2023, they launched the Fuse Ignite Program, a $10M fund
+      dedicated to empowering real-world and DeFi builders to advance the
+      adoption of Web3 payments. This program has generated positive feedback
+      and quality leads globally.
+
+
+      Fuse has also been active in local and global events, discussing
+      regulatory implications, lecturing at academic institutions, and
+      participating in hackathons. They were even selected to present at the
+      Google Web3 Community event. Fuse believes in transparency and inclusion
+      and will continue to share updates as they move forward with their
+      mission.
+
+
+      In summary, Fuse has made significant strides in 2023 and beyond. They
+      have focused on improving the user experience, decentralizing their
+      middleware, and transitioning to a deflationary model. They have formed
+      partnerships, launched a funding program, and actively participated in
+      events and discussions. Fuse is committed to mainstream adoption and
+      making Web3 technology accessible to all users.
+    name: Fuse in 2023 & Beyond
+    stepItems: []
+    uuid: 6cd7d14b-1b70-417f-9fdd-70a5366f7880
+  - content: ''
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Increasing the number of crypto investors
+            key: A
+          - content: Improving the user experience by deploying robust middleware
+            key: B
+          - content: Expanding their team
+            key: C
+          - content: Increasing their token value
+            key: D
+        content: What has been the primary focus of Fuse over the past three years?
+        type: SingleChoice
+        uuid: e2587409-36ab-40d1-ae7e-81264180c3de
+        explanation: >-
+          Over the past three years, Fuse has focused on improving the user
+          experience by deploying robust middleware.
+      - answerKeys:
+          - C
+        choices:
+          - content: To increase the value of Fuse tokens
+            key: A
+          - content: To attract more crypto investors
+            key: B
+          - content: >-
+              To empower real-world and DeFi builders to advance the adoption of
+              Web3 payments
+            key: C
+          - content: To decentralize its middleware
+            key: D
+        content: What is the purpose of the Fuse Ignite Program?
+        type: SingleChoice
+        uuid: e87847c5-1992-4d4d-95e6-a299b8bc48ac
+        explanation: >-
+          The Fuse Ignite Program is a $10M fund dedicated to empowering
+          real-world and DeFi builders to advance the adoption of Web3 payments.
+      - answerKeys:
+          - D
+        choices:
+          - content: From deflationary to inflationary
+            key: A
+          - content: Increasing the maximum supply of FUSE tokens
+            key: B
+          - content: Increasing inflation
+            key: C
+          - content: From inflationary to deflationary
+            key: D
+        content: What is the change in Fuse's tokenomics model?
+        type: SingleChoice
+        uuid: b6120feb-ed4e-4b5a-83fd-eaff652471fc
+        explanation: >-
+          Fuse is transitioning from an inflationary to a deflationary model.
+          They have suggested a maximum supply of 400 million FUSE tokens and
+          will gradually reduce inflation while initiating a base fee burn.
+    uuid: 4cf9884c-16a3-4a8a-8393-177133f9c402
+  - content: >-
+      To distribute rewards to successful participants, we must have an
+      EVM-compatible (such as MetaMask) wallet address and an email address to
+      contact you.
+
+
+      Once the Learn & Earn campaign closes on 13th August 2023, we will collect
+      the information, analyze and see who won.
+
+
+      The first 100 participants to answer all questions successfully within the
+      time outlined period (09.08.23 to 13.08.23) will share a prize pool of
+      44,444 FUSE Tokens. The next 100 will share a pool of 20,000 FUSE. 
+    name: Confirm Your Entry
+    stepItems:
+      - label: "EVM Compatible Wallet: Address:\_"
+        required: true
+        type: PublicShortInput
+        uuid: 56179e8f-27af-440f-995f-a708c20fe6a3
+      - label: 'Email:'
+        required: true
+        type: PublicShortInput
+        uuid: 90ce5626-489f-4049-a1df-18393ff7b2f3
+    uuid: b06b561f-9f86-4ec7-a197-f7328c8d50f0
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/91c0a627_f38f_4b8f_99b1_0fed4822bfe5/1691422056641_undraw_happy_birthday_re_c16u.png
+uuid: 91c0a627-f38f-4b8f-99b1-0fed4822bfe5
+version: 1
