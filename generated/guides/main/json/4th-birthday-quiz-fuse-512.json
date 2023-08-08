@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Win your share of FUSE tokens!  ",
-  "created": "2023-08-07T15:27:44.976Z",
+  "created": "2023-08-08T06:07:53.591Z",
   "guideType": "onboarding",
   "key": "4th-birthday-quiz-fuse-512",
   "name": "4th Birthday Quiz",
@@ -575,7 +575,7 @@
               "key": "B"
             },
             {
-              "content": "Those who power the payment infrastructure of the platform and actively validate transactions",
+              "content": "Those who receive transactions, bundle them, and relay them to the Fuse blockchain network",
               "key": "C"
             },
             {
@@ -975,6 +975,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/91c0a627_f38f_4b8f_99b1_0fed4822bfe5/1691422056641_undraw_happy_birthday_re_c16u.png",
-  "uuid": "91c0a627-f38f-4b8f-99b1-0fed4822bfe5",
+  "uuid": "4th-birthday-quiz-fuse-512",
   "version": 1
 }
