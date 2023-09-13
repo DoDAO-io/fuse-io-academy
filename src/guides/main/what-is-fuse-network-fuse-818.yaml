@@ -1,6 +1,6 @@
 categories: []
 content: 'Learn all about our tech stack '
-created: '2023-09-13T12:27:07.194Z'
+created: '2023-09-13T12:28:07.135Z'
 guideType: onboarding
 key: what-is-fuse-network-fuse-818
 name: What is Fuse Network?
@@ -132,31 +132,6 @@ steps:
           The utility token of the Fuse Network is called Fuse Token (FUSE),
           which is an ERC-20 token.
     uuid: 7cc6f7d8-1203-458d-bae7-d025e14001ac
-  - content: >+
-      In order to distribute rewards to successful participants we must have an
-      EVM-compatible (such as MetaMask) wallet address and an email address
-      where we can contact you. 
-
-
-      Once the Learn & Earn campaign closes on 13th August 2023 we will collect
-      up the information, analyze and see who won. 
-
-
-      The first 100 participants to answer all 8 quizzes successfully within the
-      time outlined time period (09.08.23 to 13.08.23) will share a prize pool
-      of 35,000 FUSE Tokens. 
-
-    name: Confirm Your Entry
-    stepItems:
-      - label: 'EVM Compatible Wallet Address:'
-        required: true
-        type: PublicShortInput
-        uuid: 9764bc04-8c12-4524-97e5-45bbd165feeb
-      - label: 'Email:'
-        required: true
-        type: PublicShortInput
-        uuid: 89820414-8d53-415a-aaef-abe895b2d78c
-    uuid: f406105b-7a2b-4ea3-9e4f-ed0e1436b68c
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_network_fuse_818/1691043680551_undraw_learning_re_32qv.png
 uuid: what-is-fuse-network-fuse-818
