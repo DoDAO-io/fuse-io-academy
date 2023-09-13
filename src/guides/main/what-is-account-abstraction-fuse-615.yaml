@@ -1,10 +1,10 @@
 categories: []
 content: Learn all about AA
-created: '2023-09-13T12:29:10.163Z'
+created: '2023-09-13T12:29:24.933Z'
 guideType: onboarding
 key: what-is-account-abstraction-fuse-615
 name: What is Account Abstraction?
-publishStatus: Draft
+publishStatus: Live
 steps:
   - content: >-
       Account abstraction is a concept in blockchain technology that simplifies
