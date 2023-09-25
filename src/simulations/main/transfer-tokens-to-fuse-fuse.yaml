@@ -2,7 +2,9 @@ content: How to transfer tokens from other L2s to Fuse
 id: transfer-tokens-to-fuse-fuse
 name: Transfer tokens to Fuse
 steps:
-  - content: '## ✅ You will learn how to transfer tokens from other L2s to Fuse'
+  - content: >-
+      ## ✅ You will learn how to transfer tokens from other L2s to Fuse using
+      Fuse Bridge - [https://bridge.fuse.io](https://bridge.fuse.io)
     name: Introduction
     uuid: 24442ff4-14e4-4ecf-afad-998e0f3bf801
   - content: ''
