@@ -1,0 +1,23 @@
+{
+  "content": "How to transfer tokens from Fuse to other other L2s",
+  "id": "transfer-tokens-from-fuse-fuse",
+  "name": "Transfer tokens from Fuse",
+  "steps": [
+    {
+      "content": "## ✅ You will learn how to transfer tokens from Fuse to other L2s using Fuse Bridge - [https://bridge.fuse.io](https://bridge.fuse.io)",
+      "name": "Introduction",
+      "uuid": "aebd028f-5429-4593-9f08-d97894f4b036"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "uuid": "5790e1a0-fc11-4ebd-b3ec-e5c7421b1810",
+      "iframeUrl": "https://dodao.navattic.com/xo9708fj"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-09-25T21:13:11.635Z"
+}
