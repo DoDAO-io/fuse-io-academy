@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Earn Up to 14% APY ",
-  "created": "2023-09-26T12:08:23.772Z",
+  "created": "2023-09-26T12:08:42.942Z",
   "guideType": "onboarding",
   "key": "how-to-stake-fuse-fuse-658",
   "name": "How to Stake $FUSE",
@@ -10,14 +10,7 @@
     {
       "content": "This tutorial will explain how to delegate/stake/unstake your FUSE.\n\nNote: You can only stake FUSE which is on the Fuse network. Please make sure you have changed into the Fuse network in Metamask while doing any transactions on the staking UI.         ",
       "name": "Introduction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "dc159e9d-6729-4eb4-b770-6e0ebb6a147e"
-        }
-      ],
+      "stepItems": [],
       "uuid": "ed650a70-3067-455a-8ad8-3f0ca0c3f2d7"
     },
     {
@@ -46,6 +39,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695729415471_undraw_savings_re_eq4w.svg",
-  "uuid": "62aa1eb9-caf3-44e4-88bb-13197dc1e376",
+  "uuid": "how-to-stake-fuse-fuse-658",
   "version": 1
 }
