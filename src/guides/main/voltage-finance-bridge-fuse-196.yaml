@@ -1,0 +1,72 @@
+categories: []
+content: Fuse <> Ethereum Bridge
+created: '2023-09-26T12:23:02.579Z'
+guideType: onboarding
+key: voltage-finance-bridge-fuse-196
+name: 'Voltage Finance Bridge '
+publishStatus: Live
+steps:
+  - content: >-
+      This is a step-by-step guide explaining how to move ERC-20 tokens between
+      Fuse and Ethereum using the Voltage Finance Bridge.        
+
+
+      Bridging funds between Fuse and Ethereum networks is a 2-step process:
+
+      1st - Token transfer - transferring tokens between Fuse<>Ethereum.
+
+      2nd - Token claim - claiming your tokens after transferring to Fuse or
+      Ethereum network
+    name: Introduction
+    stepItems: []
+    uuid: c7d7ce0a-6f1a-454e-abea-b7cafa59d370
+  - content: |+
+      Navigate to app.voltage.finance/#/bridge: 
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/a60e2f25_f6df_48e6_b94b_0229fa934aff/1695730455505_screenshot_2023-09-26%20at%2015.14.07.png"/>
+      </div>
+
+    name: Step 1
+    stepItems: []
+    uuid: f40c0973-96ba-40e8-b494-cc08a66aca73
+  - content: >+
+      Press Connect Wallet on the right-hand, top corner of the page to connect
+      your wallet to the Voltage Finance dApp. 
+
+
+      Once you connect, you should be able to see your wallet address and the
+      network you are currently connected to - in this case, make sure you are
+      connected to the Ethereum network.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/a60e2f25_f6df_48e6_b94b_0229fa934aff/1695730801662_screenshot_2023-09-26%20at%2015.19.34.png"/>
+      </div>
+
+    name: Step 2
+    stepItems: []
+    uuid: 1908d57b-f41c-4c9e-81ec-b1e8efa452ae
+  - content: >+
+      Choose a token from the dropdown menu, enter the amount you want to
+      transfer from Ethereum to the Fuse network, and click the transfer
+      button. 
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/a60e2f25_f6df_48e6_b94b_0229fa934aff/1695730866929_screenshot_2023-09-26%20at%2015.20.42.png"/>
+      </div>
+
+    name: Step 3
+    stepItems: []
+    uuid: 641c2cd6-c052-4374-972a-e400c618e938
+  - content: >-
+      Once available, click claim and your tokens will be added to your Metamask
+      wallet.
+    name: Step 4
+    stepItems: []
+    uuid: 3271e3a2-c774-43ad-9a4f-518acb63101d
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/a60e2f25_f6df_48e6_b94b_0229fa934aff/1695730309349_undraw_uploading_re_okvh.svg
+uuid: a60e2f25-f6df-48e6-b94b-0229fa934aff
+version: 1
