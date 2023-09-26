@@ -1,0 +1,51 @@
+{
+  "categories": [],
+  "content": "Earn Up to 14% APY ",
+  "created": "2023-09-26T12:08:23.772Z",
+  "guideType": "onboarding",
+  "key": "how-to-stake-fuse-fuse-658",
+  "name": "How to Stake $FUSE",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "This tutorial will explain how to delegate/stake/unstake your FUSE.\n\nNote: You can only stake FUSE which is on the Fuse network. Please make sure you have changed into the Fuse network in Metamask while doing any transactions on the staking UI.         ",
+      "name": "Introduction",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "dc159e9d-6729-4eb4-b770-6e0ebb6a147e"
+        }
+      ],
+      "uuid": "ed650a70-3067-455a-8ad8-3f0ca0c3f2d7"
+    },
+    {
+      "content": "Navigate to staking.fuse.io and log in to your wallet through Metamask. Make sure you are on the Fuse network. \n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695729615528_screenshot_2023-09-26%20at%2015.00.00.png\"/>\n</div>\n\n",
+      "name": "Step 1",
+      "stepItems": [],
+      "uuid": "3289e914-ed56-4401-b05b-f87fa3c6e1b5"
+    },
+    {
+      "content": "Once you are logged in you can see your address on the right-hand top corner. You can also view any current staked positions by clicking 'Mt Staked' \n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695729817789_screenshot_2023-09-26%20at%2015.02.47.png\"/>\n</div>\n\n",
+      "name": "Step 2",
+      "stepItems": [],
+      "uuid": "1d1b45be-d682-4158-9a7a-3a0c71397502"
+    },
+    {
+      "content": "Select the Validator node where you want to delegate your tokens by considering various factors like fees, uptime, etc.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695729895569_screenshot_2023-09-26%20at%2015.04.26.png\"/>\n</div>\n\n",
+      "name": "Step 3",
+      "stepItems": [],
+      "uuid": "f608fcd6-fd2e-49de-a2d8-8dd0e03342c0"
+    },
+    {
+      "content": "Click the validator you want to delegate to, input the amount of Fuse you want to stake, and click Stake. \n\nYou will also see the APY on staking when you enter the amount of FUSE you want to stake. You can see the staked amount right next to the validator name to whom you have delegated your stake. \n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695730019626_screenshot_2023-09-26%20at%2015.05.26.png\"/>\n</div>\n\n",
+      "name": "Step 4",
+      "stepItems": [],
+      "uuid": "67ed9cd4-6137-4502-b050-8f73e7b4e07f"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/62aa1eb9_caf3_44e4_88bb_13197dc1e376/1695729415471_undraw_savings_re_eq4w.svg",
+  "uuid": "62aa1eb9-caf3-44e4-88bb-13197dc1e376",
+  "version": 1
+}
