@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Developer Funding & Grants",
-  "created": "2023-09-13T12:31:28.225Z",
+  "created": "2023-09-26T11:55:43.630Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-ignite-fuse-867",
   "name": "What is Fuse Ignite?",
@@ -124,18 +124,6 @@
           "type": "SingleChoice",
           "uuid": "1c974fc4-687e-43c1-a6d4-d4d5b856b3c1",
           "explanation": "By participating in the Fuse Ignite program, builders can benefit from technical assistance and resources from Fuse's team of experts. They also gain increased exposure and visibility within the Fuse ecosystem, potential partnerships and collaborations with other projects and businesses, and the opportunity to be part of an ecosystem focused on practical and sustainable applications of Web3."
-        },
-        {
-          "label": "Email",
-          "required": true,
-          "type": "PublicShortInput",
-          "uuid": "5a1f939c-8bfc-4d31-b18a-15d6b885756e"
-        },
-        {
-          "label": "EVM Compatible Wallet Address",
-          "required": true,
-          "type": "PublicShortInput",
-          "uuid": "fc898c8f-ad7f-47f1-a206-6819adfa4de1"
         }
       ],
       "uuid": "3c6f6166-7589-4f85-b748-1fc7b3f5bc1c"
