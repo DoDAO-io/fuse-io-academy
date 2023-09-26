@@ -1,11 +1,11 @@
 {
   "categories": [],
   "content": "Bridge FUSE, WETH and USDC to Arbitrum, Polygon, and Optimism ",
-  "created": "2023-09-13T12:56:34.842Z",
+  "created": "2023-09-26T08:59:56.281Z",
   "guideType": "onboarding",
   "key": "how-to-use-the-fuse-token-bridge-fuse-139",
   "name": "How to use the Fuse Token Bridge",
-  "publishStatus": "Live",
+  "publishStatus": "Draft",
   "steps": [
     {
       "content": "Fuse Network has recently launched its token bridge, which is powered by LayerZero and monitored by Ironblocks. This token bridge enables the seamless transfer of FUSE, USDC, and WETH between Fuse Network and other blockchain networks such as Polygon, Optimism, and Arbitrum. The purpose of token bridges is to promote interoperability between different blockchain ecosystems, allowing tokens and data to move freely between them.\n\nOne of the key features of the Fuse Token Bridge is its enhanced security measures, which are monitored by Ironblocks. Ironblocks is a blockchain security expert who ensures the safety and integrity of the token bridge. Users can swap FUSE, USDC, and WETH across different chains, including Polygon, Arbitrum, and Optimism. They can also perform swaps from centralized exchanges like Binance, KuKoin, Huobi, and Coinbase.\n\nIt is important to note that currently, there are no bridge fees on the Fuse Token Bridge. However, liquidity at this stage is minimal, so it is advised to avoid bridging substantial amounts. If you want to bridge between BNB Chain, Ethereum, and Fuse, you can still use the older Voltage Finance bridge, although it will soon be depreciated. LayerSwap powers the sending of assets from centralized exchanges, and it is linked to the new bridge site for convenience.\n\nLayerZero, the protocol powering the Fuse Token Bridge, is a leading interoperability protocol that facilitates seamless connections between different blockchain networks. It uses decentralized oracles and ultra-light nodes to enable communication between networks without the need for sequential block headers. This approach ensures the secure transfer of messages between chains, with the Oracle-Relayer pair providing an additional layer of protection.\n\nIronblocks, on the other hand, is an advanced real-time detection and prevention system that monitors the token bridge for any potential threats or malicious transactions. It works closely with Fuse Network to ensure the safety of the bridge and takes immediate action against any threats. Ironblocks is trusted by major entities in the Web3 space and provides unparalleled protection to its clients.\n\nIn the future, Fuse Network plans to add more network interoperability and utility within the Fuse ecosystem. Users are encouraged to test and use the new Fuse token bridge and report any bugs or glitches they encounter. The team is dedicated to improving the bridge and providing a seamless experience for users. Stay updated through Fuse Network's social media channels for the latest news and updates on the token bridge.",
@@ -28,6 +28,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/823e2705_855f_43c8_9ef1_2ea84e137c89/1694608560695_undraw_transfer_money_re_6o1h.svg",
-  "uuid": "823e2705-855f-43c8-9ef1-2ea84e137c89",
+  "uuid": "how-to-use-the-fuse-token-bridge-fuse-139",
   "version": 1
 }

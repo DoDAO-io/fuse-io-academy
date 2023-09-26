@@ -1,10 +1,10 @@
 categories: []
 content: 'Bridge FUSE, WETH and USDC to Arbitrum, Polygon, and Optimism '
-created: '2023-09-13T12:56:34.842Z'
+created: '2023-09-26T08:59:56.281Z'
 guideType: onboarding
 key: how-to-use-the-fuse-token-bridge-fuse-139
 name: How to use the Fuse Token Bridge
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Fuse Network has recently launched its token bridge, which is powered by
@@ -69,5 +69,5 @@ steps:
     uuid: c7b28f28-1a42-4449-bcb5-55bc285e031e
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/823e2705_855f_43c8_9ef1_2ea84e137c89/1694608560695_undraw_transfer_money_re_6o1h.svg
-uuid: 823e2705-855f-43c8-9ef1-2ea84e137c89
+uuid: how-to-use-the-fuse-token-bridge-fuse-139
 version: 1
