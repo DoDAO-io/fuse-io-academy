@@ -1,6 +1,6 @@
 categories: []
 content: Put FUSE to Work with Staking
-created: '2023-09-13T12:30:55.312Z'
+created: '2023-09-26T11:54:39.760Z'
 guideType: onboarding
 key: what-is-fuse-staking-fuse-260
 name: What is FUSE Staking?
@@ -147,14 +147,6 @@ steps:
           When you stake your FUSE tokens, they are removed from your wallet and
           placed into a staking contract, causing your wallet balance of FUSE to
           decrease.
-      - label: Email
-        required: true
-        type: PublicShortInput
-        uuid: bb52c071-b442-41e3-a123-e55019ba0a78
-      - label: EVM Compatible Wallet Address
-        required: true
-        type: PublicShortInput
-        uuid: a708fb26-e8af-4e7f-9783-df674f6ae1b1
     uuid: b02e13fe-dec0-4e09-9d55-956b1ef63214
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_staking_fuse_260/1691043857559_undraw_investing_re_bov7.png
