@@ -1,9 +1,9 @@
 categories: []
 content: 'Fuse Network''s Leading DEX and Mobile DeFi App '
-created: '2024-01-15T08:42:44.616Z'
+created: '2024-01-15T08:43:41.803Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-478
-name: 'WHat is Voltage Finance? '
+name: 'What is Voltage Finance? '
 publishStatus: Draft
 steps:
   - content: >-
@@ -55,11 +55,7 @@ steps:
       interface, low transaction costs, and high-yield farming opportunities, it
       has the potential to capture a significant market share in the DeFi space.
     name: What is Voltage Finance?
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: f5abf350-92b8-4f1b-ada6-711d94d56004
+    stepItems: []
     uuid: a79f1fa6-b555-4266-9f94-bb488a3fdbd0
   - content: ''
     name: What is Voltage Finan Evaluation
@@ -163,6 +159,6 @@ steps:
     uuid: 937974f5-d668-4f4f-a31c-ddb58c921ba9
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/fa65693d_8598_4c27_9eb7_213f7281a033/1705307783351_undraw_transfer_money_re_6o1h_%282%29.svg
-uuid: fa65693d-8598-4c27-9eb7-213f7281a033
+uuid: what-is-voltage-finance-fuse-478
 version: 1
-priority: 1
+priority: -2
