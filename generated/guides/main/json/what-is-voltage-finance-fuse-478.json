@@ -1,0 +1,178 @@
+{
+  "categories": [],
+  "content": "Fuse Network's Leading DEX and Mobile DeFi App ",
+  "created": "2024-01-15T08:42:44.616Z",
+  "guideType": "onboarding",
+  "key": "what-is-voltage-finance-fuse-478",
+  "name": "WHat is Voltage Finance? ",
+  "publishStatus": "Draft",
+  "steps": [
+    {
+      "content": "Voltage Finance (VOLT) is a decentralized finance (DeFi) protocol built on the Fuse Network. It aims to provide a secure and user-friendly platform for users to earn passive income through yield farming and liquidity provision. The platform leverages the Fuse Network's fast and cheap transactions, allowing users to benefit from high-yield farming opportunities while avoiding high gas fees associated with other DeFi platforms.\n\nOne of the core features of Voltage Finance is its staking pools, token swaps, and other DeFi features that maximize users' earnings potential. The native token of the platform is called VOLT and it is used for governance and staking rewards. The platform has successfully raised funds from major institutional investors, which demonstrates its credibility and potential for growth.\n\nVoltage Finance offers a convenient trading feature that allows users to swap tokens by selecting two tokens to exchange. Liquidity providers can stake their tokens in pools and earn LP tokens for VOLT tokens in the \"farm.\" The platform also offers StableSwap integration for swapping between stablecoins with low to 0% slippage.\n\nAnother notable feature of Voltage Finance is the ZAP feature, which simplifies providing liquidity for users. It allows users to add liquidity to a liquidity pool with just one token, eliminating the need for users to have two different tokens in their wallets to add liquidity to a specific pool.\n\nThe platform also offers yield farming opportunities, where users can earn yield by depositing Liquidity Pool tokens into a farm. By connecting and confirming their wallets, selecting the two tokens, and selecting the same Farm entered in the pool, users can earn VOLT rewards from the farm.\n\nIn addition to these features, Voltage Finance has a native token bridge feature that enables users to move tokens between Fuse, Ethereum, and BNB Chain. This provides users with flexibility and convenience in managing their tokens across different networks.\n\nOverall, Voltage Finance is a promising DeFi protocol that offers a range of features to maximize users' earnings potential. With its user-friendly interface, low transaction costs, and high-yield farming opportunities, it has the potential to capture a significant market share in the DeFi space.",
+      "name": "What is Voltage Finance?",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "f5abf350-92b8-4f1b-ada6-711d94d56004"
+        }
+      ],
+      "uuid": "a79f1fa6-b555-4266-9f94-bb488a3fdbd0"
+    },
+    {
+      "content": "",
+      "name": "What is Voltage Finan Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "15ebb85f-4068-4c26-a397-6c7813bab3a9"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "544c10d1-6168-45c5-978c-f40f0fe4e4f7",
+          "explanation": "Explanation of the question"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A cryptocurrency exchange",
+              "key": "A"
+            },
+            {
+              "content": "A decentralized finance protocol",
+              "key": "B"
+            },
+            {
+              "content": "A type of digital currency",
+              "key": "C"
+            },
+            {
+              "content": "A blockchain technology company",
+              "key": "D"
+            }
+          ],
+          "content": "What is Voltage Finance?",
+          "type": "SingleChoice",
+          "uuid": "91b2eb6a-0743-4fab-99ad-ddafdbd57375",
+          "explanation": "Voltage Finance is a decentralized finance protocol built on the Fuse Network. It provides a platform for users to earn passive income through yield farming and liquidity provision."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "FUSE",
+              "key": "A"
+            },
+            {
+              "content": "ETH",
+              "key": "B"
+            },
+            {
+              "content": "VOLT",
+              "key": "C"
+            },
+            {
+              "content": "BNB",
+              "key": "D"
+            }
+          ],
+          "content": "What is the native token of Voltage Finance?",
+          "type": "SingleChoice",
+          "uuid": "f78c3276-a9f7-4624-b32e-4c1cf520f692",
+          "explanation": "The native token of Voltage Finance is called VOLT and it is used for governance and staking rewards."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "A feature for swapping between stablecoins",
+              "key": "A"
+            },
+            {
+              "content": "A feature for moving tokens between different networks",
+              "key": "B"
+            },
+            {
+              "content": "A feature for earning yield by depositing Liquidity Pool tokens into a farm",
+              "key": "C"
+            },
+            {
+              "content": "A feature that simplifies providing liquidity for users",
+              "key": "D"
+            }
+          ],
+          "content": "What is the ZAP feature in Voltage Finance?",
+          "type": "SingleChoice",
+          "uuid": "b75f06b7-d308-4664-83f2-99e6c7c699a2",
+          "explanation": "The ZAP feature in Voltage Finance simplifies providing liquidity for users. It allows users to add liquidity to a liquidity pool with just one token."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Yield farming, liquidity provision, token swaps, and a native token bridge feature",
+              "key": "A"
+            },
+            {
+              "content": "Only yield farming",
+              "key": "B"
+            },
+            {
+              "content": "Only liquidity provision",
+              "key": "C"
+            },
+            {
+              "content": "Only token swaps",
+              "key": "D"
+            }
+          ],
+          "content": "What does Voltage Finance offer to its users?",
+          "type": "SingleChoice",
+          "uuid": "0440b7a8-2d34-4220-b657-22162948f828",
+          "explanation": "Voltage Finance offers a range of features to maximize users' earnings potential including yield farming, liquidity provision, token swaps, and a native token bridge feature."
+        }
+      ],
+      "uuid": "937974f5-d668-4f4f-a31c-ddb58c921ba9"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/fa65693d_8598_4c27_9eb7_213f7281a033/1705307783351_undraw_transfer_money_re_6o1h_%282%29.svg",
+  "uuid": "fa65693d-8598-4c27-9eb7-213f7281a033",
+  "version": 1,
+  "priority": 1
+}
