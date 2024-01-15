@@ -1,6 +1,6 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-01-15T11:26:36.404Z'
+created: '2024-01-15T11:29:56.106Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
@@ -697,6 +697,24 @@ steps:
           to potentially achieve significant gains by staking VOLT tokens and
           actively participating in the launch.
     uuid: 0aa574f5-2b57-464c-8a5d-a3ef73a6ab1d
+  - content: >-
+      Once you have completed the quiz please provide your wallet address (must
+      be compatible with Fuse Network, i.e. MetaMask) and an email address you
+      have access to. 
+
+
+      Once the winners are selected, you will be notified by email. 
+    name: 'That''s it! '
+    stepItems:
+      - label: Wallet Address
+        required: true
+        type: PrivateShortInput
+        uuid: 64859c02-f572-4817-bd60-595a0e956168
+      - label: Email Address
+        required: true
+        type: PrivateShortInput
+        uuid: 41c0c90f-2358-43ea-9730-ff5465071e09
+    uuid: a5c0b68c-ccb8-43bb-831d-f482f8c5ae3f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/29557cc6_7dd5_444e_9a10_74f787dd95fe/1705310568637_undraw_transfer_money_re_6o1h_%282%29.svg
 uuid: what-is-voltage-finance-fuse-547
