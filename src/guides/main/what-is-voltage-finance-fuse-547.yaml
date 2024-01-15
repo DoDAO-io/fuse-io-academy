@@ -1,6 +1,6 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-01-15T09:40:31.949Z'
+created: '2024-01-15T10:01:57.032Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
@@ -200,8 +200,138 @@ steps:
           auto-compounding, which means that users can continuously reinvest
           their earnings to maximize their returns.
     uuid: b912ad71-f677-498b-bbe5-9254e1ea1ac1
+  - content: >-
+      To get started with Voltage Finance, you can visit their official website
+      and connect your wallet to the platform. Once you have connected your
+      wallet, you can start trading, investing, and earning with just a few
+      clicks using their seamless DeFi tools.
+    name: 'How to get started with Voltage '
+    stepItems: []
+    uuid: 49315780-0331-4e52-b1bc-cfbb9e334b24
+  - content: Please choose one answer.
+    name: Getting Started Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: Visit their official website and connect your wallet
+            key: A
+          - content: Start trading immediately
+            key: B
+          - content: Invest in their DeFi tools
+            key: C
+          - content: Earn with just a few clicks
+            key: D
+        content: What is the first step to get started with Voltage Finance?
+        type: SingleChoice
+        uuid: 878cc29f-1d95-48d5-b597-2300ad0f2645
+        explanation: >-
+          To get started with Voltage Finance, the first step is to visit their
+          official website and connect your wallet to the platform.
+    uuid: 3df8f18e-82e0-4190-a5df-e92c8ce3dbdd
+  - content: >-
+      To trade on Voltage DEX, you can use the simple swap interface. All you
+      need to do is select the two tokens that you want to exchange. The
+      liquidity on the exchange is provided by Liquidity Providers (LPs) who
+      stake their tokens in Pools. In return, they receive LP tokens, which can
+      also be staked to earn VOLT tokens on the farm.
+
+
+      When you make a token swap or trade on the exchange, you will have to pay
+      a trading fee. This fee helps to support the platform and maintain its
+      operations. Additionally, Voltage DEX offers a StableSwap integration,
+      which allows users to swap between stablecoins with low to 0% slippage.
+      This feature provides a convenient and efficient way to trade stablecoins.
+
+
+      In summary, trading on Voltage DEX is a straightforward process. You
+      simply select the two tokens you want to exchange and make the trade. The
+      liquidity on the platform is provided by LPs who stake their tokens in
+      Pools. When you trade, you will pay a trading fee, and there is also a
+      StableSwap integration available for trading stablecoins. Overall, Voltage
+      DEX offers a user-friendly and efficient trading experience for
+      cryptocurrency traders.
+    name: How to Trade on Voltage Finance
+    stepItems: []
+    uuid: a3c193a3-17ec-46aa-aaa3-6cdb01ee3682
+  - content: 'Please choose one answer for each question. '
+    name: Trading Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: The users who trade on the platform
+            key: A
+          - content: Liquidity Providers (LPs) who stake their tokens in Pools
+            key: B
+          - content: The platform itself
+            key: C
+          - content: The creators of the tokens
+            key: D
+        content: Who provides the liquidity on Voltage DEX?
+        type: SingleChoice
+        uuid: 1a274092-9cba-47f7-9fb5-2e1106fc3bbc
+        explanation: >-
+          The liquidity on Voltage DEX is provided by Liquidity Providers (LPs)
+          who stake their tokens in Pools.
+      - answerKeys:
+          - C
+        choices:
+          - content: To discourage users from trading too often
+            key: A
+          - content: To increase the profits of the platform
+            key: B
+          - content: To support the platform and maintain its operations
+            key: C
+          - content: To pay the creators of the tokens
+            key: D
+        content: What is the purpose of the trading fee on Voltage DEX?
+        type: SingleChoice
+        uuid: 15f82836-9eb9-41c8-83b2-4d9f9ea25e4f
+        explanation: >-
+          The trading fee on Voltage DEX helps to support the platform and
+          maintain its operations.
+      - answerKeys:
+          - D
+        choices:
+          - content: To provide a way to trade volatile cryptocurrencies
+            key: A
+          - content: To provide a way to trade tokens for fiat currency
+            key: B
+          - content: To provide a way to trade tokens for other tokens
+            key: C
+          - content: >-
+              To provide a way to swap between stablecoins with low to 0%
+              slippage
+            key: D
+        content: What is the StableSwap integration on Voltage DEX used for?
+        type: SingleChoice
+        uuid: 508b814f-9661-4878-bbd6-7850daf7a6e4
+        explanation: >-
+          The StableSwap integration on Voltage DEX allows users to swap between
+          stablecoins with low to 0% slippage.
+      - answerKeys:
+          - A
+        choices:
+          - content: LP tokens, which can also be staked to earn VOLT tokens
+            key: A
+          - content: A percentage of the trading fees
+            key: B
+          - content: A fixed amount of tokens every month
+            key: C
+          - content: A share of the platform's profits
+            key: D
+        content: >-
+          What do Liquidity Providers (LPs) receive in return for staking their
+          tokens in Pools on Voltage DEX?
+        type: SingleChoice
+        uuid: c752ee95-a475-4abd-811c-02626b2f569b
+        explanation: >-
+          Liquidity Providers (LPs) receive LP tokens, which can also be staked
+          to earn VOLT tokens on the farm.
+    uuid: a68e1405-e08c-4ea1-b2e2-ac670f049ce2
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/29557cc6_7dd5_444e_9a10_74f787dd95fe/1705310568637_undraw_transfer_money_re_6o1h_%282%29.svg
-uuid: 29557cc6-7dd5-444e-9a10-74f787dd95fe
+uuid: what-is-voltage-finance-fuse-547
 version: 1
 priority: 1
