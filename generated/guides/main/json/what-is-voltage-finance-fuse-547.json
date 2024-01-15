@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "The simplest way to get into DeFi",
-  "created": "2024-01-15T10:01:57.032Z",
+  "created": "2024-01-15T10:14:48.609Z",
   "guideType": "onboarding",
   "key": "what-is-voltage-finance-fuse-547",
   "name": "What is Voltage Finance? ",
@@ -382,6 +382,127 @@
         }
       ],
       "uuid": "a68e1405-e08c-4ea1-b2e2-ac670f049ce2"
+    },
+    {
+      "content": "Yield farming on Voltage DEX is a process that allows you to earn VOLT token rewards by providing liquidity to the platform. To get started, you need to search and select two tokens that you want to pool together. For example, you can choose FUSE and FUSD. \n\nOnce you have selected the tokens, go to the Farm page and choose the same Farm that you entered in the pool. In this case, it would be the FUSE + FUSD Farm. By doing this, you are staking your LP (Liquidity Provider) tokens in the farm.\n\nTo receive your VOLT token rewards, you need to select the claim button on the withdraw tab. The VOLT token rewards are updated every few seconds, so you can claim them periodically. \n\nIf you want to unstake your LP tokens, you can navigate to the withdraw tab under the farm and select withdraw at the bottom of the panel. This will allow you to remove your liquidity from the farm.\n\nTo find the corresponding pool, go to the Pools page on the left toolbar. Here, you can search for and select the pool that matches the tokens you have pooled together.\n\nYield farming on Voltage DEX is a great way to earn VOLT token rewards by providing liquidity to the platform. By following these steps, you can start yield farming and maximize your earnings. Remember to connect and confirm your wallet before you begin the process.",
+      "name": "How to Yield Farm on Voltage DEX",
+      "stepItems": [],
+      "uuid": "a6df3c6a-f9ca-4688-b846-cbd48645769b"
+    },
+    {
+      "content": "Please choose one answer for each question. ",
+      "name": "Yield Farming Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Stake your LP tokens in the farm",
+              "key": "A"
+            },
+            {
+              "content": "Claim your VOLT token rewards",
+              "key": "B"
+            },
+            {
+              "content": "Search and select two tokens that you want to pool together",
+              "key": "C"
+            },
+            {
+              "content": "Unstake your LP tokens",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step to start yield farming on Voltage DEX?",
+          "type": "SingleChoice",
+          "uuid": "62692ab9-35ec-4ae1-9df3-3c3dc9290863",
+          "explanation": "The first step to start yield farming on Voltage DEX is to search and select two tokens that you want to pool together."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "By staking your LP tokens",
+              "key": "A"
+            },
+            {
+              "content": "By selecting the claim button on the withdraw tab",
+              "key": "B"
+            },
+            {
+              "content": "By pooling two tokens together",
+              "key": "C"
+            },
+            {
+              "content": "By unstaking your LP tokens",
+              "key": "D"
+            }
+          ],
+          "content": "How can you receive your VOLT token rewards on Voltage DEX?",
+          "type": "SingleChoice",
+          "uuid": "84a15da7-8c6c-46fd-be2c-896d346f90f7",
+          "explanation": "To receive your VOLT token rewards, you need to select the claim button on the withdraw tab."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Navigate to the withdraw tab under the farm and select withdraw",
+              "key": "A"
+            },
+            {
+              "content": "Select the claim button on the withdraw tab",
+              "key": "B"
+            },
+            {
+              "content": "Pool two tokens together",
+              "key": "C"
+            },
+            {
+              "content": "Stake your LP tokens in the farm",
+              "key": "D"
+            }
+          ],
+          "content": "What should you do to unstake your LP tokens on Voltage DEX?",
+          "type": "SingleChoice",
+          "uuid": "cf3459b8-c99c-40f2-a484-dc15c768c6eb",
+          "explanation": "To unstake your LP tokens, you can navigate to the withdraw tab under the farm and select withdraw at the bottom of the panel."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It allows you to buy tokens at a lower price",
+              "key": "A"
+            },
+            {
+              "content": "It allows you to sell tokens at a higher price",
+              "key": "B"
+            },
+            {
+              "content": "It allows you to trade tokens without any fees",
+              "key": "C"
+            },
+            {
+              "content": "It allows you to earn VOLT token rewards by providing liquidity to the platform",
+              "key": "D"
+            }
+          ],
+          "content": "What is the benefit of yield farming on Voltage DEX?",
+          "type": "SingleChoice",
+          "uuid": "b4d00af3-9d8d-42de-8e0c-c81ca548a79b",
+          "explanation": "Yield farming on Voltage DEX is a great way to earn VOLT token rewards by providing liquidity to the platform."
+        }
+      ],
+      "uuid": "2560c42f-2f45-4a6d-9cbd-886f4571c675"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/29557cc6_7dd5_444e_9a10_74f787dd95fe/1705310568637_undraw_transfer_money_re_6o1h_%282%29.svg",
