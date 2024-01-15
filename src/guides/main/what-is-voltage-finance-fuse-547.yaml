@@ -1,6 +1,6 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-01-15T11:22:33.660Z'
+created: '2024-01-15T11:26:36.404Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
@@ -569,6 +569,134 @@ steps:
           rewards. If you unstake too soon, you may not see much increase in
           value.
     uuid: fb41c3cc-15ed-427b-90f3-47bb5aa16827
+  - content: >-
+      Voltage Launchpad is the first-ever token launch platform on the Fuse
+      Network. It serves as a gateway for projects looking to join the growing
+      Fuse ecosystem. The platform operates in a phased approach, with three
+      distinct phases: Deposit, Withdrawal, and Launch. Each phase plays a
+      crucial role in the token launch process.
+
+
+      In the Deposit phase, users can stake their $VOLT tokens to increase their
+      allocation size. By staking their tokens, users show their support for the
+      platform and are rewarded with a larger allocation. The amount of
+      allocation is determined by the user's veVOLT balance, which is a snapshot
+      taken a few days before the official launch. Users without veVOLT will
+      receive a lower allocation compared to those who hold veVOLT.
+
+
+      The Withdrawal phase allows users to withdraw the tokens they have
+      purchased. During this phase, users have the opportunity to adjust their
+      VOLT stake if they are unhappy with the TOKEN-VOLT pairing ratio. However,
+      penalties are in place to discourage rate manipulation.
+
+
+      The final phase is the Launch phase, which lasts for seven days. During
+      this phase, users can trade their VOLT tokens for the Launchpad's token,
+      up to their pre-defined allocation. These tokens will be locked for a
+      short period until trading starts.
+
+
+      There are several advantages to using the Voltage Launchpad. Firstly, it
+      provides efficient price discovery, allowing users to potentially achieve
+      significant gains by staking VOLT tokens and actively participating in the
+      launch. Secondly, the phased approach ensures a fair distribution of new
+      tokens to all participants. The token launch process is also transparent
+      and auditable, reflecting a commitment to integrity. Additionally, by
+      depositing tokens into a liquidity pair on the Voltage Finance DEX,
+      liquidity for all newly issued tokens is ensured. Lastly, users have the
+      opportunity to earn bonus tokens throughout the launch, incentivizing
+      their participation.
+
+
+      Overall, the Voltage Launchpad serves as a catalyst for innovation in the
+      Fuse DeFi ecosystem. It provides a platform for emerging projects to
+      secure funding and connects them with an active community eager to support
+      and benefit from early-stage ventures. By bridging visionary projects with
+      the community, the Launchpad propels the future of DeFi and empowers its
+      members to experience hypergrowth.
+    name: What is Voltage Launchpad?
+    stepItems: []
+    uuid: 715f60da-bd5d-4672-977a-c8b64d164035
+  - content: ''
+    name: Voltage Launchpad Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: It is a cryptocurrency exchange
+            key: A
+          - content: It is a digital wallet for storing cryptocurrencies
+            key: B
+          - content: It is a token launch platform on the Fuse Network
+            key: C
+          - content: It is a blockchain network
+            key: D
+        content: What is the primary function of Voltage Launchpad?
+        type: SingleChoice
+        uuid: fb941179-dd97-491b-9fc8-4daed941f54b
+        explanation: >-
+          Voltage Launchpad serves as a token launch platform on the Fuse
+          Network, providing a gateway for projects to join the Fuse ecosystem.
+      - answerKeys:
+          - B
+        choices:
+          - content: Users can withdraw their tokens
+            key: A
+          - content: >-
+              Users can stake their $VOLT tokens to increase their allocation
+              size
+            key: B
+          - content: Users can trade their VOLT tokens for the Launchpad's token
+            key: C
+          - content: Users can buy new tokens
+            key: D
+        content: What is the purpose of the Deposit phase in Voltage Launchpad?
+        type: SingleChoice
+        uuid: 4f81a7e5-1805-4d69-95f9-a530bb0438af
+        explanation: >-
+          In the Deposit phase, users stake their $VOLT tokens to increase their
+          allocation size. The amount of allocation is determined by the user's
+          veVOLT balance.
+      - answerKeys:
+          - D
+        choices:
+          - content: Users can withdraw their tokens
+            key: A
+          - content: Users can stake their $VOLT tokens
+            key: B
+          - content: Users can buy new tokens
+            key: C
+          - content: Users can trade their VOLT tokens for the Launchpad's token
+            key: D
+        content: What happens during the Launch phase in Voltage Launchpad?
+        type: SingleChoice
+        uuid: a6ae9335-7e4e-4d48-9d39-9d6f07870a27
+        explanation: >-
+          During the Launch phase, users can trade their VOLT tokens for the
+          Launchpad's token, up to their pre-defined allocation. These tokens
+          will be locked for a short period until trading starts.
+      - answerKeys:
+          - A
+        choices:
+          - content: It provides efficient price discovery
+            key: A
+          - content: It allows users to mine cryptocurrencies
+            key: B
+          - content: >-
+              It provides a platform for buying and selling goods with
+              cryptocurrencies
+            key: C
+          - content: It allows users to create their own cryptocurrencies
+            key: D
+        content: What is one of the advantages of using Voltage Launchpad?
+        type: SingleChoice
+        uuid: f74610f2-55b3-41b4-876b-b31d544a883a
+        explanation: >-
+          Voltage Launchpad provides efficient price discovery, allowing users
+          to potentially achieve significant gains by staking VOLT tokens and
+          actively participating in the launch.
+    uuid: 0aa574f5-2b57-464c-8a5d-a3ef73a6ab1d
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/29557cc6_7dd5_444e_9a10_74f787dd95fe/1705310568637_undraw_transfer_money_re_6o1h_%282%29.svg
 uuid: what-is-voltage-finance-fuse-547
