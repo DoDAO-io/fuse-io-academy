@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "The simplest way to get into DeFi",
-  "created": "2024-01-15T10:14:48.609Z",
+  "created": "2024-01-15T11:22:33.660Z",
   "guideType": "onboarding",
   "key": "what-is-voltage-finance-fuse-547",
   "name": "What is Voltage Finance? ",
@@ -503,6 +503,127 @@
         }
       ],
       "uuid": "2560c42f-2f45-4a6d-9cbd-886f4571c675"
+    },
+    {
+      "content": "sFUSE and Liquid Staking are concepts related to the Fuse Network, a blockchain platform. Liquid staking refers to a model where users can stake their Fuse tokens and earn rewards. Staking is similar to putting your money in a savings account, where you can earn interest over time. In this case, when you stake your Fuse tokens, you receive sFUSE tokens as placeholders or receipts.\n\nThe value of your sFUSE tokens increases as long as you keep your Fuse tokens staked. For example, if you stake 1000 FUSE tokens, you would receive 1000 sFUSE tokens. If you keep your tokens staked for a week, the value of your sFUSE tokens will go up. When you decide to withdraw or unstake your FUSE tokens, you can exchange your sFUSE tokens for a higher amount of FUSE tokens, depending on the current rate.\n\nTo participate in liquid staking, you can follow a simple process. First, you need to go to the Voltage Finance website and access the \"Stake\" tab. Then, choose sFUSE as the type of token you want to stake and enter the amount of Fuse tokens you wish to stake. Confirm the transaction in your wallet, and you will start earning rewards. The approximate Annual Percentage Yield (APY) for your stake will be shown.\n\nIt's important to note that the APY is dynamic and may change slightly. The liquid staking contract automatically compounds the rewards each time a user stakes or unstakes into the pool. To unstake your tokens, you can select the \"Unstake\" option and enter the amount you wish to withdraw. Sign the transaction in your wallet, and you will receive your unstaked tokens.\n\nTo monitor your staking activity, you can access the Analytics section on the platform. This will provide you with information about your staked tokens and the rewards you have earned. It's worth mentioning that the value of your staked tokens may increase over time, but it's important to keep them staked for a certain period to maximize your rewards. If you unstake too soon, you may not see much increase in value.\n\nOverall, sFUSE and Liquid Staking on the Fuse Network offer users an opportunity to earn rewards by staking their Fuse tokens. It's a simple process that resembles putting money in a savings account, where the value of your staked tokens can grow over time. By following the instructions provided on the Voltage Finance platform, users can easily participate in liquid staking and start earning rewards.",
+      "name": "What is sFUSE & Liquid Staking? ",
+      "stepItems": [],
+      "uuid": "3cbffdd7-4095-478e-a529-3cab0b778c2c"
+    },
+    {
+      "content": "",
+      "name": "Liquid Staking Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Concepts related to the Fuse Network, a blockchain platform",
+              "key": "A"
+            },
+            {
+              "content": "Types of cryptocurrencies",
+              "key": "B"
+            },
+            {
+              "content": "Programming languages",
+              "key": "C"
+            },
+            {
+              "content": "Types of investment strategies",
+              "key": "D"
+            }
+          ],
+          "content": "What does sFUSE and Liquid Staking refer to?",
+          "type": "SingleChoice",
+          "uuid": "86ff419b-1cf7-4f20-a5bf-7f974def6d1e",
+          "explanation": "sFUSE and Liquid Staking are concepts related to the Fuse Network, a blockchain platform where users can stake their Fuse tokens and earn rewards."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "You lose your Fuse tokens",
+              "key": "A"
+            },
+            {
+              "content": "You receive sFUSE tokens and their value increases over time",
+              "key": "B"
+            },
+            {
+              "content": "You receive additional Fuse tokens",
+              "key": "C"
+            },
+            {
+              "content": "Nothing happens",
+              "key": "D"
+            }
+          ],
+          "content": "What happens when you stake your Fuse tokens in Liquid Staking?",
+          "type": "SingleChoice",
+          "uuid": "3e33af0e-8105-47eb-a54e-fbc8dee785d4",
+          "explanation": "When you stake your Fuse tokens, you receive sFUSE tokens as placeholders or receipts. The value of your sFUSE tokens increases as long as you keep your Fuse tokens staked."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "By purchasing sFUSE tokens",
+              "key": "A"
+            },
+            {
+              "content": "By trading Fuse tokens for sFUSE tokens",
+              "key": "B"
+            },
+            {
+              "content": "By staking Fuse tokens on the Voltage Finance DEX",
+              "key": "C"
+            },
+            {
+              "content": "By mining sFUSE tokens",
+              "key": "D"
+            }
+          ],
+          "content": "How can you participate in liquid staking?",
+          "type": "SingleChoice",
+          "uuid": "946ab1b3-8086-4afc-938f-623cb3343d53",
+          "explanation": "To participate in liquid staking, you need to go to the Voltage Finance website, access the 'Stake' tab, choose sFUSE as the type of token you want to stake, enter the amount of Fuse tokens you wish to stake, and confirm the transaction in your wallet."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "You can trade your tokens for other cryptocurrencies",
+              "key": "A"
+            },
+            {
+              "content": "You can avoid transaction fees",
+              "key": "B"
+            },
+            {
+              "content": "You can sell your tokens at a higher price",
+              "key": "C"
+            },
+            {
+              "content": "You can maximize your rewards",
+              "key": "D"
+            }
+          ],
+          "content": "What is the benefit of keeping your tokens staked for a certain period?",
+          "type": "SingleChoice",
+          "uuid": "9427be54-bcb5-42e3-b76a-94e6e460eb0c",
+          "explanation": "The value of your staked tokens may increase over time, but it's important to keep them staked for a certain period to maximize your rewards. If you unstake too soon, you may not see much increase in value."
+        }
+      ],
+      "uuid": "fb41c3cc-15ed-427b-90f3-47bb5aa16827"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/29557cc6_7dd5_444e_9a10_74f787dd95fe/1705310568637_undraw_transfer_money_re_6o1h_%282%29.svg",
