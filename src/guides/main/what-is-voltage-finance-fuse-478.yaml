@@ -1,6 +1,6 @@
 categories: []
 content: 'Fuse Network''s Leading DEX and Mobile DeFi App '
-created: '2024-01-15T08:45:41.784Z'
+created: '2024-01-15T08:48:04.748Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-478
 name: 'What is Voltage Finance? '
@@ -57,6 +57,88 @@ steps:
     name: What is Voltage Finance?
     stepItems: []
     uuid: a79f1fa6-b555-4266-9f94-bb488a3fdbd0
+  - content: >-
+      Answer all the questions correctly and then submit your wallet address to
+      enter the prize draw and win! 
+    name: Test Your Knowledge
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: A cryptocurrency exchange
+            key: A
+          - content: A type of digital currency
+            key: B
+          - content: A decentralized finance protocol built on the Fuse Network
+            key: C
+          - content: A software for creating digital art
+            key: D
+        content: What is Voltage Finance?
+        type: SingleChoice
+        uuid: cc76dcf6-9a8e-4061-a45a-e13baa0654f0
+        explanation: >-
+          Voltage Finance is a decentralized finance protocol built on the Fuse
+          Network. It provides a platform for users to earn passive income
+          through yield farming and liquidity provision.
+      - answerKeys:
+          - B
+        choices:
+          - content: FUSE
+            key: A
+          - content: VOLT
+            key: B
+          - content: ETH
+            key: C
+          - content: BNB
+            key: D
+        content: What is the native token of Voltage Finance?
+        type: SingleChoice
+        uuid: 0e0a82af-132d-4399-b3fb-15746fe91a9f
+        explanation: >-
+          The native token of Voltage Finance is called VOLT. It is used for
+          governance and staking rewards.
+      - answerKeys:
+          - D
+        choices:
+          - content: It allows users to mine VOLT tokens
+            key: A
+          - content: It allows users to swap tokens at zero fees
+            key: B
+          - content: It allows users to stake their tokens in multiple pools at once
+            key: C
+          - content: >-
+              It simplifies providing liquidity by allowing users to add
+              liquidity to a pool with just one token
+            key: D
+        content: What does the ZAP feature in Voltage Finance do?
+        type: SingleChoice
+        uuid: 52ac406a-cc13-49bc-aff6-034c7f817d81
+        explanation: >-
+          The ZAP feature in Voltage Finance simplifies providing liquidity for
+          users. It allows users to add liquidity to a liquidity pool with just
+          one token.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              It enables users to move tokens between Fuse, Ethereum, and BNB
+              Chain
+            key: A
+          - content: It allows users to swap tokens with zero fees
+            key: B
+          - content: It allows users to stake their tokens in multiple pools at once
+            key: C
+          - content: >-
+              It simplifies providing liquidity by allowing users to add
+              liquidity to a pool with just one token
+            key: D
+        content: What does the token bridge feature in Voltage Finance do?
+        type: SingleChoice
+        uuid: e518132f-68c6-4ab3-a00c-68d2a58015d6
+        explanation: >-
+          The token bridge feature in Voltage Finance enables users to move
+          tokens between Fuse, Ethereum, and BNB Chain.
+    uuid: 14874597-59e1-4813-8d83-a87bcc3bbda0
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/fa65693d_8598_4c27_9eb7_213f7281a033/1705307783351_undraw_transfer_money_re_6o1h_%282%29.svg
 uuid: what-is-voltage-finance-fuse-478
