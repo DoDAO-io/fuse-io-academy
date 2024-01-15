@@ -1,6 +1,6 @@
 categories: []
 content: 'Fuse Network''s Leading DEX and Mobile DeFi App '
-created: '2024-01-15T08:43:41.803Z'
+created: '2024-01-15T08:44:48.303Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-478
 name: 'What is Voltage Finance? '
@@ -58,12 +58,8 @@ steps:
     stepItems: []
     uuid: a79f1fa6-b555-4266-9f94-bb488a3fdbd0
   - content: ''
-    name: What is Voltage Finan Evaluation
+    name: Questions
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 15ebb85f-4068-4c26-a397-6c7813bab3a9
       - answerKeys:
           - choice_1
           - choice_2
@@ -161,4 +157,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/fa65693d_8598_4c27_9eb7_213f7281a033/1705307783351_undraw_transfer_money_re_6o1h_%282%29.svg
 uuid: what-is-voltage-finance-fuse-478
 version: 1
-priority: -2
+priority: 1
