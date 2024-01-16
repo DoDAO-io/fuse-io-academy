@@ -1,18 +1,24 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-01-15T13:24:00.951Z'
+created: '2024-01-16T11:10:11.985Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
 publishStatus: Live
 steps:
-  - content: >-
+  - content: >+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403384912_screenshot_2024-01-16%20at%2013.09.35.png"/>
+      </div>
+
+
       Voltage Finance is a DeFi (Decentralized Finance) platform that allows
       users to trade, invest, and earn with just a few clicks, all while
       maintaining complete control over their assets using seamless DeFi tools.
       The platform is built on the Fuse Network and is poised to become a DeFi
       powerhouse in 2024 with a bold vision to 10x its TVL (Total Value Locked)
       and trading volume.
+
     name: Introduction to Voltage Finance
     stepItems: []
     uuid: c12927c9-9a39-42a9-b1bb-4e766ffc3449
