@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "The simplest way to get into DeFi",
-  "created": "2024-01-16T11:37:39.667Z",
+  "created": "2024-01-16T11:44:26.725Z",
   "guideType": "onboarding",
   "key": "what-is-voltage-finance-fuse-547",
   "name": "What is Voltage Finance? ",
@@ -770,6 +770,100 @@
         }
       ],
       "uuid": "a5c0b68c-ccb8-43bb-831d-f482f8c5ae3f"
+    },
+    {
+      "content": "Voltage Finance is a decentralized finance (DeFi) platform that is set to make a big impact on the Fuse Network in 2024. The company has ambitious plans to increase its total value locked (TVL) and trading volume by 10 times. To achieve this, Voltage Finance has laid out a roadmap that includes several exciting innovations.\n\nOne of the major updates coming to Voltage Finance is the introduction of Voltage v3, a new version of their decentralized exchange (DEX). This upgrade will bring customizable liquidity ranges to the platform, allowing users to earn more through fees and boosted pool incentives. Traders will also have greater control over their trades and slippage within specific price ranges, thanks to the ability to concentrate liquidity. The Beta version of Voltage v3 is almost ready for testing, which is an exciting milestone for the community.\n\nAnother highly anticipated feature coming to Voltage Finance is DEX lending. This will provide users with earning opportunities on the Fuse Network and allow for better asset utilization. Holders of sFUSE, the native token of Voltage Finance, will be able to use it as collateral to borrow other assets while earning staking rewards. More information about the lending release will be shared in the coming month.\n\nIn addition to these updates, Voltage Finance is focused on enhancing the user experience and introducing new DeFi opportunities. They have plans for a tokenomics upgrade, listing on top-tier centralized exchanges, boosted incentives for VeVolt holders, stable yield on real-world assets, an advanced pro mode in the Volt app, expanded onramps, and seamless onboarding, a dynamic liquid staking market, gamified quests feature, collaborative trading strategies with revenue share, and a comprehensive bug bounty program.\n\nOverall, Voltage Finance has an exciting roadmap for 2024 that aims to bring significant advancements to the platform. With their focus on liquidity, user experience, and new DeFi opportunities, Voltage Finance is poised for growth and success in the coming year.",
+      "name": "Voltage Finance in 2024",
+      "stepItems": [],
+      "uuid": "49abbf3d-334c-426b-9a8c-261e47e2bd64"
+    },
+    {
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
+      "name": "Voltage in 2024 Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Introduction of Voltage v2",
+              "key": "A"
+            },
+            {
+              "content": "Introduction of Voltage v3",
+              "key": "B"
+            },
+            {
+              "content": "Introduction of Voltage v4",
+              "key": "C"
+            },
+            {
+              "content": "Introduction of Voltage v5",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the major updates coming to Voltage Finance in 2024?",
+          "type": "SingleChoice",
+          "uuid": "b3a8f483-fb25-4bea-97f1-d3fe7b36be81",
+          "explanation": "One of the major updates coming to Voltage Finance in 2024 is the introduction of Voltage v3, a new version of their decentralized exchange (DEX)."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "DEX buying",
+              "key": "A"
+            },
+            {
+              "content": "DEX selling",
+              "key": "B"
+            },
+            {
+              "content": "DEX lending",
+              "key": "C"
+            },
+            {
+              "content": "DEX borrowing",
+              "key": "D"
+            }
+          ],
+          "content": "What is the anticipated feature of Voltage Finance that will provide users with earning opportunities on the Fuse Network?",
+          "type": "SingleChoice",
+          "uuid": "a4b278d5-6c47-4d55-9ae0-3a35ddb5e026",
+          "explanation": "DEX lending is the anticipated feature of Voltage Finance that will provide users with earning opportunities on the Fuse Network."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "To bring significant advancements to the platform with a focus on liquidity, user experience, and DeFi opportunities",
+              "key": "A"
+            },
+            {
+              "content": "To reduce the total value locked (TVL) and trading volume",
+              "key": "B"
+            },
+            {
+              "content": "To remove the decentralized exchange (DEX) feature",
+              "key": "C"
+            },
+            {
+              "content": "To discontinue the sFUSE token",
+              "key": "D"
+            }
+          ],
+          "content": "What is Voltage Finance's plan for 2024?",
+          "type": "SingleChoice",
+          "uuid": "241212e3-6d7a-4172-9ef4-8b526e4edf83",
+          "explanation": "Voltage Finance has an exciting roadmap for 2024 that aims to bring significant advancements to the platform with a focus on liquidity, user experience, and new DeFi opportunities."
+        }
+      ],
+      "uuid": "4e09c7e9-237c-4445-a6e3-26d7bae67059"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705405047681_partenrship.png",
