@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "The simplest way to get into DeFi",
-  "created": "2024-01-16T11:10:11.985Z",
+  "created": "2024-01-16T11:15:53.787Z",
   "guideType": "onboarding",
   "key": "what-is-voltage-finance-fuse-547",
   "name": "What is Voltage Finance? ",
@@ -14,7 +14,7 @@
       "uuid": "c12927c9-9a39-42a9-b1bb-4e766ffc3449"
     },
     {
-      "content": "Please choose one answer for each question. ",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>\n\n",
       "name": "Introduction Evaluation",
       "stepItems": [
         {
@@ -108,7 +108,7 @@
       "uuid": "2ac763dc-1d97-42a0-83e3-5b401043313b"
     },
     {
-      "content": "Please choose one answer for each question. ",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Features & Services  Evaluation",
       "stepItems": [
         {
@@ -229,7 +229,7 @@
       "uuid": "49315780-0331-4e52-b1bc-cfbb9e334b24"
     },
     {
-      "content": "Please choose one answer.",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Getting Started Evaluation",
       "stepItems": [
         {
@@ -269,7 +269,7 @@
       "uuid": "a3c193a3-17ec-46aa-aaa3-6cdb01ee3682"
     },
     {
-      "content": "Please choose one answer for each question. ",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Trading Evaluation",
       "stepItems": [
         {
@@ -390,7 +390,7 @@
       "uuid": "a6df3c6a-f9ca-4688-b846-cbd48645769b"
     },
     {
-      "content": "Please choose one answer for each question. ",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Yield Farming Evaluation",
       "stepItems": [
         {
@@ -511,7 +511,7 @@
       "uuid": "3cbffdd7-4095-478e-a529-3cab0b778c2c"
     },
     {
-      "content": "",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Liquid Staking Evaluation",
       "stepItems": [
         {
@@ -632,7 +632,7 @@
       "uuid": "715f60da-bd5d-4672-977a-c8b64d164035"
     },
     {
-      "content": "",
+      "content": "<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705403708727_fuse_%20uni%20test%20knowledge.jpg\"/>\n</div>",
       "name": "Voltage Launchpad Evaluation",
       "stepItems": [
         {
