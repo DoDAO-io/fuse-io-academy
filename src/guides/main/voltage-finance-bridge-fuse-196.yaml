@@ -1,10 +1,10 @@
 categories: []
 content: Fuse <> Ethereum Bridge
-created: '2023-09-26T12:26:15.646Z'
+created: '2024-01-17T14:20:37.577Z'
 guideType: onboarding
 key: voltage-finance-bridge-fuse-196
 name: How to Use Voltage Bridge
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       This is a step-by-step guide explaining how to move ERC-20 tokens between
@@ -70,3 +70,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/a60e2f25_f6df_48e6_b94b_0229fa934aff/1695730309349_undraw_uploading_re_okvh.svg
 uuid: voltage-finance-bridge-fuse-196
 version: 1
+priority: 50
