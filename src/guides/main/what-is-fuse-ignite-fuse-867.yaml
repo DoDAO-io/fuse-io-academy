@@ -1,10 +1,10 @@
 categories: []
 content: Developer Funding & Grants
-created: '2023-09-26T11:55:43.630Z'
+created: '2024-01-17T14:19:58.890Z'
 guideType: onboarding
 key: what-is-fuse-ignite-fuse-867
 name: What is Fuse Ignite?
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Fuse Ignite is a funding program launched by Fuse with a budget of over
@@ -167,3 +167,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_ignite_fuse_867/1691044442087_undraw_engineering_team_a7n2.png
 uuid: what-is-fuse-ignite-fuse-867
 version: 1
+priority: 50
