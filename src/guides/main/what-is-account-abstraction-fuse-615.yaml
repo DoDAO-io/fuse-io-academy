@@ -1,10 +1,10 @@
 categories: []
 content: Learn all about AA
-created: '2023-09-13T12:29:24.933Z'
+created: '2024-01-17T14:18:27.982Z'
 guideType: onboarding
 key: what-is-account-abstraction-fuse-615
 name: What is Account Abstraction?
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Account abstraction is a concept in blockchain technology that simplifies
@@ -158,3 +158,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_account_abstraction_fuse_615/1691043704807_undraw_abstract_re_l9xy.png
 uuid: what-is-account-abstraction-fuse-615
 version: 1
+priority: 50
