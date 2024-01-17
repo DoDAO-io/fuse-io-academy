@@ -1,10 +1,10 @@
 categories: []
 content: Learn about Web 3.0
-created: '2023-09-26T11:55:19.062Z'
+created: '2024-01-17T14:19:47.391Z'
 guideType: onboarding
 key: what-is-web3-fuse-773
 name: 'What is Web3? '
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Web3 is a term used to describe the vision of a new and improved internet.
@@ -185,3 +185,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_web3_fuse_773/1691044164941_undraw_connected_world_wuay.png
 uuid: what-is-web3-fuse-773
 version: 1
+priority: 50
