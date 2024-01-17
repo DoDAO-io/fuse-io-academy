@@ -1,10 +1,10 @@
 categories: []
 content: Fuse Network is an EVM compatible blockchain
-created: '2023-09-26T11:43:09.840Z'
+created: '2024-01-17T14:20:11.314Z'
 guideType: onboarding
 key: deploy-smart-contract-on-fuse-fuse-644
 name: Deploy Smart Contracts on Fuse
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Fuse Network is an EVM-compatible blockchain, every tool for Ethereum can
@@ -114,3 +114,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/79374593_3bbf_4e09_915d_a41089fc5fc8/1695728023388_undraw_to_the_stars_re_wq2x.svg
 uuid: deploy-smart-contract-on-fuse-fuse-644
 version: 1
+priority: 50
