@@ -1,10 +1,10 @@
 categories: []
 content: 'Learn all about our tech stack '
-created: '2023-09-13T12:28:07.135Z'
+created: '2024-01-17T14:18:11.564Z'
 guideType: onboarding
 key: what-is-fuse-network-fuse-818
 name: What is Fuse Network?
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       Fuse Network is a decentralized blockchain platform that was created in
@@ -136,3 +136,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_network_fuse_818/1691043680551_undraw_learning_re_32qv.png
 uuid: what-is-fuse-network-fuse-818
 version: 1
+priority: 50
