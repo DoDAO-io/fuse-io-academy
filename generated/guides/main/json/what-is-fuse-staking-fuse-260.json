@@ -1,11 +1,11 @@
 {
   "categories": [],
   "content": "Put FUSE to Work with Staking",
-  "created": "2023-09-26T11:54:39.760Z",
+  "created": "2024-01-17T14:19:32.833Z",
   "guideType": "onboarding",
   "key": "what-is-fuse-staking-fuse-260",
   "name": "What is FUSE Staking?",
-  "publishStatus": "Live",
+  "publishStatus": "Draft",
   "steps": [
     {
       "content": "FUSE Staking is a process that allows holders of FUSE tokens to earn a passive income. By locking up their tokens, they can earn an annual percentage yield (APY) of more than 10%. This means that if you stake $1000 worth of FUSE tokens, you could earn around $100 in passive income after one year.\n\nThe great thing about FUSE Staking is that it is a simple and straightforward process. You don't need to run a validator node or have any technical knowledge. All you need to do is stake your FUSE tokens and you can start earning rewards. This allows anyone who holds enough FUSE tokens to participate in securing and governing the Fuse Network.\n\nRunning a validator node in the Fuse Network involves approving transactions, and the more communities and users conducting transactions, the more validators can earn as a reward. This incentivizes validators to participate, build, and onboard users into the Fuse Network, which helps the network grow organically.\n\nIf you're interested in staking but don't currently hold FUSE tokens, you can obtain them from various exchanges. Once you have the tokens, you can bridge them to the Fuse Network if you hold them on another network like Ethereum or BNB Chain. Voltage Finance can assist you with this process.\n\nTo stake your FUSE tokens, you can visit the dedicated FUSE staking page. There, you will find a list of official Fuse Network validators to choose from. Each option is safe and viable, so you can choose based on factors like uptime and fees. Once you've made your choice, you can connect your blockchain wallet and initiate the staking transaction.\n\nIt's important to note that once you stake your tokens, they will be removed from your wallet and placed into a staking contract. This means that your wallet balance of FUSE will decrease depending on how much you stake. However, the benefits of staking FUSE are worth it. Not only do you earn more FUSE, but you also contribute to the security and efficiency of the Fuse blockchain.\n\nOverall, FUSE Staking is a great way for FUSE token holders to put their assets to work and earn a passive income. It's a simple and accessible process that allows anyone to participate in securing and governing the Fuse Network. By staking their tokens, holders can earn rewards while also contributing to the growth and development of the network.",
@@ -131,5 +131,6 @@
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_staking_fuse_260/1691043857559_undraw_investing_re_bov7.png",
   "uuid": "what-is-fuse-staking-fuse-260",
-  "version": 1
+  "version": 1,
+  "priority": 50
 }

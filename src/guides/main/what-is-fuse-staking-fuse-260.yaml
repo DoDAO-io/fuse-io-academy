@@ -1,10 +1,10 @@
 categories: []
 content: Put FUSE to Work with Staking
-created: '2023-09-26T11:54:39.760Z'
+created: '2024-01-17T14:19:32.833Z'
 guideType: onboarding
 key: what-is-fuse-staking-fuse-260
 name: What is FUSE Staking?
-publishStatus: Live
+publishStatus: Draft
 steps:
   - content: >-
       FUSE Staking is a process that allows holders of FUSE tokens to earn a
@@ -152,3 +152,4 @@ thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_fuse_staking_fuse_260/1691043857559_undraw_investing_re_bov7.png
 uuid: what-is-fuse-staking-fuse-260
 version: 1
+priority: 50
