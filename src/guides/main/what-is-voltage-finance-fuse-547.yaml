@@ -1,6 +1,6 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-02-13T12:49:05.256Z'
+created: '2024-02-13T12:49:31.100Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
@@ -884,10 +884,6 @@ steps:
           significant advancements to the platform with a focus on liquidity,
           user experience, and new DeFi opportunities.
     uuid: 4e09c7e9-237c-4445-a6e3-26d7bae67059
-  - content: 'Congratulations! '
-    name: 'That''s it! '
-    stepItems: []
-    uuid: a5c0b68c-ccb8-43bb-831d-f482f8c5ae3f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705502699085_fuse_learn%26earn_%281%29.png
 uuid: what-is-voltage-finance-fuse-547
