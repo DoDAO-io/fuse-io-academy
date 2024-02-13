@@ -1,12 +1,12 @@
 categories: []
 content: The simplest way to get into DeFi
-created: '2024-01-25T14:00:19.967Z'
+created: '2024-02-13T12:49:05.256Z'
 guideType: onboarding
 key: what-is-voltage-finance-fuse-547
 name: 'What is Voltage Finance? '
 publishStatus: Draft
 steps:
-  - content: >
+  - content: >-
       Welcome to Fuse University – Your Gateway to Web3 Knowledge and Token
       Rewards! 
 
@@ -23,17 +23,6 @@ steps:
       <div align="center">
         <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705502715343_fuse_learn%26earn_%281%29.png"/>
       </div>
-
-
-      **VOLTAGE FINANCE QUIZ DETAILS: 
-
-
-      Opening Date: Thursday 18th January at 2 PM UTC
-       
-      Closing Date: Thursday 25th January at 2 PM UTC
-
-
-      $500 in FUSE Tokens will be shared by 100 randomly selected winners.**
     name: 'Welcome to Fuse University '
     stepItems: []
     uuid: c9d383e9-7491-498c-829c-8d79307bbf24
@@ -895,28 +884,9 @@ steps:
           significant advancements to the platform with a focus on liquidity,
           user experience, and new DeFi opportunities.
     uuid: 4e09c7e9-237c-4445-a6e3-26d7bae67059
-  - content: >-
-      Once you have completed the quiz please provide your wallet address (must
-      be compatible with Fuse Network, i.e. MetaMask) and an email address you
-      have access to. 
-
-
-      100 Winners will be chosen from all the applicants who complete the TaskOn
-      tasks and answer all the quiz questions correctly. 
-
-
-      Once the 100 winners are randomly selected, you will be notified by
-      email. 
+  - content: 'Congratulations! '
     name: 'That''s it! '
-    stepItems:
-      - label: Wallet Address
-        required: true
-        type: PrivateShortInput
-        uuid: 64859c02-f572-4817-bd60-595a0e956168
-      - label: Email Address
-        required: true
-        type: PrivateShortInput
-        uuid: 41c0c90f-2358-43ea-9730-ff5465071e09
+    stepItems: []
     uuid: a5c0b68c-ccb8-43bb-831d-f482f8c5ae3f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/fuse/Guide/what_is_voltage_finance_fuse_547/1705502699085_fuse_learn%26earn_%281%29.png
